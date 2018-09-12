@@ -3,6 +3,8 @@
 Annotation guidelines for family history extraction from synthetic corpus of clinical text. The paper titled **Iterative development of family history annotation guidelines using a
 synthetic corpus of clinical text** is accepted for publication at [LOUHI](https://louhi2018.fbk.eu/home) workshop which is collocated with [EMNLP 2018](http://emnlp2018.org).
 
+The co-authors of the paper are Pål Brekke, Øystein Nytrø, Lilja Øvrelid. The work is funded by [BIGMED](https://bigmed.no/) project.
+
 ## Requirements
 - Scikit-learn
 
