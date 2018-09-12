@@ -18,3 +18,5 @@ Train and test SVM 5-fold cross-validation for entity recognition
 
 Train and test SVM 5-fold cross-validation for relation extraction. The file 
 - `python3 uio2rel.py pal_annotate all_sentences.vert.parse 5`
+
+

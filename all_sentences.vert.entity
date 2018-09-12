@@ -1,0 +1,8491 @@
+# sent_id = 
+Pasienten	SELF
+har	O
+som	O
+ledd	O
+i	O
+familiescreening	O
+fått	O
+påvist	O
+mutasjon	CONDITION
+i	O
+MYH7	O
+som	O
+er	O
+årsak	O
+til	O
+hypertrofisk	O
+kardiomyopati	O
+.	O 
+
+# sent_id = 
+Indekspasienten	INDEX
+er	O
+hans	SELF
+onkel	FAMILY
+på	O
+farssiden,	SIDE
+som	O
+hatt	O
+hjertestans	EVENT
+og	O
+fått	O
+implantert	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+og	O
+hans	O
+søster	FAMILY
+har	O
+også	O
+fått	O
+påvist	O
+mutasjonen,	CONDITION
+men	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+to	AMOUNT
+fettere	FAMILY
+på	O
+farssiden	SIDE
+har	O
+også	O
+arvet	O
+mutasjonen,	CONDITION
+pasienten	O
+vet	NEG
+ikke	NEG
+om	O
+de	O
+er	O
+syke	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+søster	FAMILY
+og	O
+en	AMOUNT
+bror	FAMILY
+som	O
+begge	O
+er	O
+gen-negative	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+barn	FAMILY
+som	O
+foreløpig	O
+ikke	NEG
+er	O
+testet..	CONDITION
+(	O
+ikke	O
+testet	O
+-	O
+ikke	O
+kjent	O
+testet	O
+)	O
+hvordan	O
+ser	O
+videre	O
+forløp	O
+ut..	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+fått	O
+påvist	O
+mutasjon	CONDITION
+i	O
+MYPBC3-genet	CONDITION
+som	O
+ledd	O
+i	O
+familescreening	O
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+bestefar	FAMILY
+på	O
+farssiden	SIDE
+er	O
+indekspasient,	INDEX
+han	O
+døde	EVENT
+40	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+og	O
+hadde	O
+HCM-diagnosen	CONDITION
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+hadde	O
+to	AMOUNT
+brødre	FAMILY
+som	O
+begge	O
+er	O
+i	CONDITION
+live	CONDITION
+og	O
+i	O
+70	AGE
+-årene,	AGE
+pasienten	O
+kjenner	NEG
+ikke	NEG
+til	NEG
+om	O
+disse	O
+er	O
+gentestet	EVENT
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+er	O
+frisk	CONDITION
+genbærer	CONDITION
+og	O
+følges	O
+ved	O
+vår	O
+polklinikk	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ingen	NEG
+helsøsken,	FAMILY
+men	O
+far	FAMILY
+har	O
+giftet	O
+seg	O
+på	O
+nytt	O
+og	O
+har	O
+en	AMOUNT
+sønn,	FAMILY
+pasientens	O
+halvbror,	O
+som	O
+er	O
+testet	CONDITION
+positivt	CONDITION
+for	O
+famliiens	O
+mutasjon	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+fått	O
+påvist	O
+mutasjon	CONDITION
+i	O
+MYBPC3-genet	O
+som	O
+i	O
+familien	FAMILY
+har	O
+gitt	O
+malign	O
+historie	O
+med	O
+plutselig	EVENT
+hjertedød,	EVENT
+og	O
+det	O
+er	O
+flere	FAMILY
+som	O
+har	O
+PM	CONDITION
+og	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Hans	SELF
+halvbror	FAMILY
+døde	EVENT
+plutselig	EVENT
+22	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+i	TEMPORAL
+2012.	TEMPORAL
+(annet	O
+død	O
+u	O
+kj	O
+årsak	O
+?)	O 
+
+# sent_id = 
+Hun	SELF
+kjenner	NEG
+ikke	NEG
+til	NEG
+noen	O
+tilfeller	O
+av	O
+hjertesykdom	CONDITION
+i	O
+familien	FAMILY
+unntatt	O
+en	AMOUNT
+bestemor	FAMILY
+som	O
+hadde	O
+to	AMOUNT
+hjerteinfarkt	EVENT
+men	O
+døde	EVENT
+i	TEMPORAL
+godt	TEMPORAL
+voksen	TEMPORAL
+alder	TEMPORAL
+av	O
+cancer	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+døde	EVENT
+plutselig	EVENT
+46	AGE
+år	AGE
+gammel	O
+.	O
+Han	SELF
+har	O
+to	AMOUNT
+brødre	FAMILY
+som	O
+har	O
+dødd	EVENT
+i	TEMPORAL
+60-årene,	TEMPORAL
+den	FAMILY
+ene	FAMILY
+var	O
+kreftsyk,	CONDITION
+den	FAMILY
+andre	FAMILY
+døde	EVENT
+mens	O
+han	O
+var	O
+på	O
+vei	O
+til	O
+legen	O
+.	O 
+
+# sent_id = 
+Han	FAMILY
+hadde	O
+visstnok	O
+lungeproblemer	CONDITION
+.	O
+Pasienten	SELF
+har	O
+to	AMOUNT
+gjenlevende	CONDITION
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Både	O
+avdøde	CONDITION
+søsken	FAMILY
+og	O
+levende	CONDITION
+søsken	FAMILY
+har	O
+barn	FAMILY
+som	O
+er	O
+friske,	CONDITION
+med	O
+unntak	O
+av	O
+en	AMOUNT
+nevø	FAMILY
+som	O
+døde	EVENT
+noen	TEMPORAL
+måneder	TEMPORAL
+gammel	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+selv	O
+har	O
+en	AMOUNT
+voksen	O
+sønn	FAMILY
+og	O
+en	AMOUNT
+voksen	O
+datter	FAMILY
+som	O
+begge	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+foreldres	FAMILY
+søsken,	FAMILY
+åtte	AMOUNT
+på	O
+hver	O
+side,	O
+hadde	O
+ingen	NEG
+plutselig	EVENT
+hjertedød	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+henvist	O
+på	O
+grunn	O
+av	O
+at	O
+datter	FAMILY
+til	O
+søster	FAMILY
+er	O
+heterozygot	CONDITION
+for	CONDITION
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Hennes	SELF
+søster	FAMILY
+er	O
+bærer	CONDITION
+av	CONDITION
+samme	CONDITION
+gen	CONDITION
+og	O
+går	O
+til	O
+kontroll	O
+ved	O
+St.Olavs	O
+hospital	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+genbærer	CONDITION
+for	O
+mutasjonen	O
+som	O
+hos	O
+hans	O
+bror	FAMILY
+og	O
+hans	O
+kusine	FAMILY
+har	O
+ført	O
+til	O
+uttalt	O
+sykdom	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+hadde	O
+en	AMOUNT
+bror	FAMILY
+som	O
+døde	EVENT
+av	O
+drukning	EVENT
+17	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O
+Han	SELF
+har	O
+tre	AMOUNT
+gjenlevende	CONDITION
+søsken	FAMILY
+som	O
+alle	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+døde	EVENT
+plutselig	EVENT
+50	O
+år	TEMPORAL
+gammel,	TEMPORAL
+pasienten	O
+selv	O
+har	O
+etter	O
+utredning	O
+for	O
+brystsmerter	CONDITION
+fått	O
+påvist	O
+fortykket	CONDITION
+hjertemuskel	CONDITION
+.	O 
+
+# sent_id = 
+Gentest	CONDITION
+for	O
+HCM	O
+skal	O
+ha	O
+vært	O
+negativ	NEG
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	O
+en	AMOUNT
+søster	FAMILY
+som	O
+har	O
+utviklet	O
+HCM,	CONDITION
+en	AMOUNT
+annen	O
+søster	FAMILY
+som	O
+er	O
+genbærer,	CONDITION
+men	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+barn	FAMILY
+har	O
+ikke	NEG
+arvet	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+lever	CONDITION
+og	O
+er	O
+92	AGE
+år	AGE
+gammel	AGE
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+hatt	O
+hjerneslag,	CONDITION
+er	O
+83	AGE
+år	AGE
+gammel	AGE
+.	O 
+
+# sent_id = 
+Han	FAMILY
+har	O
+7	AMOUNT
+søsken	FAMILY
+i	O
+alderen	O
+46	AGE
+til	O
+64	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+En	FAMILY
+bror	FAMILY
+skal	O
+ha	O
+fortykket	O
+hjertemuskulatur	CONDITION
+og	O
+går	O
+til	O
+kontroll	O
+på	O
+Haukeland	O
+.	O 
+
+# sent_id = 
+Familiens	O
+indekspasient	INDEX
+er	O
+moren,	FAMILY
+som	O
+skal	O
+ha	O
+blitt	O
+funnet	EVENT
+livløs	EVENT
+i	O
+sengen	O
+da	O
+hun	O
+var	O
+35	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+En	AMOUNT
+bror	FAMILY
+av	O
+moren	FAMILY
+har	O
+hatt	O
+hyppige	AMOUNT
+besvimelser	EVENT
+og	O
+skal	O
+ha	O
+fått	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+ingen	NEG
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+barn,	FAMILY
+en	O
+fire	AGE
+år	AGE
+gammel	AGE
+datter	FAMILY
+og	O
+en	O
+6	AGE
+år	AGE
+gammel	AGE
+sønn	FAMILY
+.	O 
+
+# sent_id = 
+Sønnen	FAMILY
+skal	O
+ha	O
+arvet	CONDITION
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+søster	FAMILY
+som	O
+er	O
+testet	CONDITION
+negativt	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	O
+mutasjonspositiv	CONDITION
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Ingen	NEG
+sikre	NEG
+opplysninger	O
+om	O
+hjertesykdom	CONDITION
+hos	O
+besteforeldrene	FAMILY
+.	O 
+
+# sent_id = 
+Hennes	SELF
+far	FAMILY
+fikk	O
+påvist	O
+HCM	CONDITION
+fra	O
+30	TEMPORAL
+års	TEMPORAL
+alder	TEMPORAL
+og	O
+er	O
+nylig	TEMPORAL
+hjertetransplantert	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+en	AMOUNT
+bror	FAMILY
+som	O
+er	O
+gennegativ	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+yngre	O
+søster	FAMILY
+som	O
+ikke	NEG
+er	O
+gentestet	CONDITION
+ennå	O
+.	O 
+
+# sent_id = 
+Hans	SELF
+far	FAMILY
+døde	EVENT
+plutselig	EVENT
+62	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+pga	O
+antatt	O
+koronarsykdom	CONDITION
+.	O 
+
+# sent_id = 
+Ingen	NEG
+SCD	EVENT
+i	O
+ung	O
+alder	O
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Familiens	FAMILY
+indekspasient	CONDITION
+er	O
+hennes	SELF
+bror,	FAMILY
+føst	TEMPORAL
+94,	TEMPORAL
+som	O
+i	O
+august	TEMPORAL
+2013	TEMPORAL
+fikk	O
+hjertestans	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+fått	O
+påvist	O
+samme	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+et	AMOUNT
+barn	FAMILY
+på	O
+19	AGE
+måneder	AGE
+.	O 
+
+# sent_id = 
+Er	O
+nå	O
+gravid	O
+i	O
+5	O
+måned	O
+med	O
+sitt	O
+andre	AMOUNT
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+er	O
+positiv	O
+for	O
+familiens	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+En	AMOUNT
+bror	FAMILY
+av	O
+bestemor	FAMILY
+døde	EVENT
+plutselig	EVENT
+18	TEMPORAL
+år	TEMPORAL
+gammel,	TEMPORAL
+og	O
+en	O
+sønn	FAMILY
+av	O
+en	O
+annen	O
+bror	FAMILY
+av	O
+bestemor	O
+døde	EVENT
+plutselig	EVENT
+25	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Pasient	SELF
+mor	FAMILY
+har	O
+en	AMOUNT
+søster	FAMILY
+som	O
+ikke	NEG
+er	O
+gentestet,	CONDITION
+og	O
+hun	O
+har	O
+to	AMOUNT
+barn	FAMILY
+som	O
+ikke	NEG
+er	O
+undersøkt	EVENT
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+har	O
+fått	O
+påvist	O
+fortykket	CONDITION
+hjertemuskel,	CONDITION
+og	O
+fått	O
+primærprofylaktisk	O
+ICD	CONDITION
+etter	O
+at	O
+det	O
+ble	O
+sett	O
+NSVT	EVENT
+på	O
+Holter	O
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+morfar	FAMILY
+døde	EVENT
+plutselig	EVENT
+over	O
+50	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Ingen	NEG
+øvrige	NEG
+tilfeller	O
+av	O
+plutselig	EVENT
+hjertedød	EVENT
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+eldst	O
+av	O
+4	AMOUNT
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Ingen	NEG
+av	O
+disse	O
+har	O
+hatt	O
+symptomer	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+tre	AMOUNT
+barn,	FAMILY
+hvorav	O
+ett	FAMILY
+døde	EVENT
+20	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+fikk	O
+hjertestans	EVENT
+i	O
+forbindelse	O
+med	O
+trening	O
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+døde	EVENT
+av	O
+hjerteinfarkt,	CONDITION
+og	O
+det	O
+har	O
+vært	O
+flere	AMOUNT
+onkler	FAMILY
+og	O
+tanter	FAMILY
+til	O
+far	FAMILY
+med	O
+hjerteproblemer,	CONDITION
+men	O
+genstatus	CONDITION
+er	O
+ukjent	NEG
+.	O 
+
+# sent_id = 
+Hos	O
+pasienten	SELF
+er	O
+det	O
+funnet	O
+samme	CONDITION
+mutasjon	CONDITION
+som	O
+hos	O
+far,	FAMILY
+som	O
+har	O
+mye	O
+arytmiplager	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+fått	O
+påvist	O
+mutasjon,	CONDITION
+men	O
+det	O
+er	O
+ingen	NEG
+andre	NEG
+kjente	O
+tilfeller	O
+av	O
+HCM	CONDITION
+i	O
+familien,	FAMILY
+og	O
+heller	O
+ingen	NEG
+kjente	NEG
+tilfeller	O
+av	O
+plutselig	EVENT
+død	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+tre	AMOUNT
+barn,	FAMILY
+og	O
+ønsker	O
+henvisning	O
+for	O
+gentest	O
+av	O
+disse	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+yngre	O
+søster	FAMILY
+som	O
+er	O
+frisk,	CONDITION
+to	AMOUNT
+eldre	O
+brøde	FAMILY
+der	O
+den	FAMILY
+ene	FAMILY
+har	O
+fått	O
+pacemaker	CONDITION
+og	O
+den	FAMILY
+andre	FAMILY
+skal	O
+ha	O
+hatt	O
+hjerteinfarkt	EVENT
+.	O 
+
+# sent_id = 
+Hans	SELF
+far	FAMILY
+døde	EVENT
+i	TEMPORAL
+60-årene,	TEMPORAL
+skal	O
+ha	O
+hatt	O
+hjerteproblemer	CONDITION
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+hadde	O
+tre	AMOUNT
+brødre	FAMILY
+som	O
+alle	O
+er	CONDITION
+døde,	CONDITION
+alle	O
+levde	O
+til	O
+over	TEMPORAL
+70	TEMPORAL
+.	O 
+
+# sent_id = 
+Mor	FAMILY
+døde	EVENT
+kreft	CONDITION
+i	TEMPORAL
+80-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+hadde	O
+seks	AMOUNT
+søsken,	FAMILY
+pasienten	O
+kjenner	NEG
+ikke	NEG
+til	NEG
+spesiell	O
+sykdom	CONDITION
+i	O
+denne	O
+delen	O
+av	O
+familien	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+ingen	O
+helseopplysninger	O
+om	O
+besteforeldrene.	FAMILY 
+
+# sent_id = 
+Pasienten	SELF
+selv	O
+har	O
+tre	AMOUNT
+barn,	FAMILY
+en	AMOUNT
+sønn	FAMILY
+er	O
+bærer	CONDITION
+av	CONDITION
+genet	CONDITION
+og	O
+følges	O
+her,	O
+en	AMOUNT
+annen	O
+sønn	FAMILY
+og	O
+en	AMOUNT
+datter	FAMILY
+er	O
+gennegative	CONDITION
+.	O 
+
+# sent_id = 
+Sønnen	FAMILY
+som	O
+er	O
+genbærer	CONDITION
+har	O
+en	O
+gravid	CONDITION
+samboer	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+siden	O
+forrige	O
+kontroll	EVENT
+her	O
+for	TEMPORAL
+et	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+mistet	EVENT
+en	O
+datter,	FAMILY
+hun	FAMILY
+ble	O
+funnet	EVENT
+død	EVENT
+i	O
+hjemmet	O
+28	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	O
+gjenlevende	CONDITION
+sønn	FAMILY
+på	O
+30	AGE
+.	O 
+
+# sent_id = 
+Familiens	O
+indekspasient	CONDITION
+er	O
+pasientens	SELF
+søster	FAMILY
+som	O
+tilfeldig	O
+fikk	O
+påvist	O
+EKG-forandringer	CONDITION
+.	O 
+
+# sent_id = 
+Ved	O
+gjennomgang	O
+av	O
+slektsanamnesen	O
+døde	EVENT
+hans	SELF
+far	FAMILY
+plutselig	O
+og	O
+uventet	O
+52	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Hans	SELF
+søster,	FAMILY
+som	O
+også	O
+har	O
+mutasjonen,	CONDITION
+hadde	O
+en	AMOUNT
+dødfødsel	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+tre	AMOUNT
+levende	CONDITION
+søsken,	FAMILY
+men	O
+kjenner	O
+også	O
+til	O
+at	O
+moren	FAMILY
+skal	O
+ha	O
+mistet	EVENT
+et	O
+barn	FAMILY
+i	O
+sen	O
+abort	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+tre	AMOUNT
+døtre	FAMILY
+og	O
+fire	AMOUNT
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ingen	NEG
+andre	NEG
+kjente	O
+tilfeller	O
+av	O
+sykdommen	CONDITION
+i	O
+slekten	FAMILY
+,	O
+og	O
+heller	O
+ingen	NEG
+kjente	NEG
+tilfeller	O
+av	O
+plutselig	EVENT
+død	EVENT
+i	TEMPORAL
+ung	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Far	FAMILY
+døde	EVENT
+73	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+av	O
+hjerteinfarkt	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+visstnok	O
+noen	O
+hjerteproblemer,	CONDITION
+hun	O
+er	O
+75	AGE
+år	AGE
+gammel	AGE
+.	O 
+
+# sent_id = 
+Flere	AMOUNT
+tilfeller	O
+av	O
+mulig	O
+plutselig	EVENT
+hjertedød	EVENT
+på	O
+farssiden	SIDE
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+hadde	O
+fem	AMOUNT
+søsken,	FAMILY
+en	AMOUNT
+av	O
+hans	O
+brødre	FAMILY
+skal	O
+ha	O
+dødd	EVENT
+ca	O
+25	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+mens	O
+han	O
+arbeidet	O
+på	O
+et	O
+jorde,	O
+og	O
+en	AMOUNT
+annen	O
+bror	FAMILY
+ble	O
+funnet	EVENT
+død	EVENT
+på	O
+låven	O
+da	O
+han	O
+var	O
+ca	TEMPORAL
+30	TEMPORAL
+.	O 
+
+# sent_id = 
+Farfaren	FAMILY
+døde	EVENT
+da	O
+han	O
+var	O
+64	TEMPORAL
+og	O
+skal	O
+ha	O
+hatt	O
+“voksende	O
+hjerte”	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+har	O
+hjertesvikt	CONDITION
+og	O
+har	O
+fått	O
+primærprofylaktisk	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+To	AMOUNT
+onkler	FAMILY
+på	O
+farssiden	SIDE
+har	O
+også	O
+mutasjonen	CONDITION
+og	O
+er	O
+syke,	CONDITION
+en	FAMILY
+av	FAMILY
+dem	FAMILY
+skal	O
+ha	O
+hjertesvikt,	CONDITION
+den	FAMILY
+andre	FAMILY
+rytmeproblemer	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+er	O
+gravid	CONDITION
+med	O
+sitt	O
+andre	O
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+datter	FAMILY
+på	O
+tre	AGE
+år	AGE
+og	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+ett	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+en	AMOUNT
+sønn	FAMILY
+for	O
+et	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Hennes	SELF
+to	AMOUNT
+barn	FAMILY
+er	O
+begge	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Bare	O
+datteren	FAMILY
+har	O
+arvet	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Hennes	SELF
+bestefar	FAMILY
+(f.	O
+1932)	TEMPORAL
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+og	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Bestemor	FAMILY
+ble	O
+over	O
+90	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+kommer	O
+til	O
+kontroll	EVENT
+om	TEMPORAL
+et	TEMPORAL
+år	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+kjent	O
+hjertebank	CONDITION
+de	O
+siste	O
+fire-fem	TEMPORAL
+månedene	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+hadde	O
+en	O
+synkope	EVENT
+i	TEMPORAL
+sommer	TEMPORAL
+.	O 
+
+# sent_id = 
+Fetteren	FAMILY
+hans	SELF
+har	O
+to	AMOUNT
+barn	FAMILY
+i	O
+tenårene	TEMPORAL
+,	O
+begge	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Fetteren	FAMILY
+har	O
+hatt	O
+hjertestans	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+fått	O
+implantert	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+fikk	O
+diagnosen	CONDITION
+i	TEMPORAL
+femti-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hatt	O
+en	AMOUNT
+rekke	AMOUNT
+innleggelser	EVENT
+de	TEMPORAL
+siste	TEMPORAL
+årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+er	O
+akkurat	O
+nå	O
+innlagt	CONDITION
+Ullevål	O
+sykehus	O
+etter	O
+flere	AMOUNT
+ICD-innslag	EVENT
+.	O 
+
+# sent_id = 
+Han	O
+settes	O
+opp	O
+til	O
+ny	O
+Holter	EVENT
+innen	TEMPORAL
+4-6	TEMPORAL
+uker	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hatt	O
+tolv	AMOUNT
+arytmiepisoder	EVENT
+siden	O
+implantasjonen	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+hadde	O
+flere	AMOUNT
+innleggelser	EVENT
+på	TEMPORAL
+90-tallet	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+ett	AGE
+år	AGE
+gammel	AGE
+sønn	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+en	AMOUNT
+sønn	FAMILY
+for	O
+ett	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Hennes	SELF
+sønn	FAMILY
+ble	O
+født	EVENT
+for	O
+ett	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Hennes	SELF
+sønn	FAMILY
+er	O
+ett	AGE
+år	AGE
+gammel	AGE
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+påvist	O
+MYH7-mutasjon	CONDITION
+i	TEMPORAL
+2012	TEMPORAL
+og	O
+har	O
+gått	O
+til	O
+kontroll	O
+ved	O
+barneavdelingen	O
+inntil	O
+for	O
+et	O
+år	O
+siden	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+hatt	O
+flere	AMOUNT
+synkoper	EVENT
+i	TEMPORAL
+barne-	TEMPORAL
+og	TEMPORAL
+ungdomsalder,	TEMPORAL
+både	O
+i	O
+forbindelse	O
+med	O
+aktivitet	O
+og	O
+når	O
+hun	O
+har	O
+vært	O
+i	O
+ro	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+begynte	O
+med	O
+betablokker	O
+for	O
+tre	O
+år	O
+siden,	O
+og	O
+har	O
+ikke	NEG
+hatt	O
+noen	O
+synkope	EVENT
+etter	O
+det	O
+.	O 
+
+# sent_id = 
+Av	O
+og	O
+til	O
+merker	O
+hun	SELF
+en	O
+“dirring”	CONDITION
+i	CONDITION
+brystet,	CONDITION
+uavhengig	O
+av	O
+anstrengelse,	O
+og	O
+kan	O
+bli	O
+svimmel	CONDITION
+i	O
+forbindelse	O
+med	O
+dette	O
+men	O
+har	O
+ikke	NEG
+svimt	EVENT
+av	EVENT
+.	O 
+
+# sent_id = 
+Sist	O
+hun	SELF
+besvimte	EVENT
+var	O
+under	O
+en	O
+flytur	O
+til	O
+Spania	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+husker	NEG
+ikke	NEG
+om	O
+hun	O
+hadde	O
+hjertebank	CONDITION
+eller	O
+andre	O
+symptomer	O
+før	O
+hun	O
+svimte	EVENT
+av	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+to	AMOUNT
+brødre	FAMILY
+på	O
+12	AGE
+og	O
+17	AGE
+år,	AGE
+den	FAMILY
+eldste	FAMILY
+er	O
+testet	CONDITION
+negativt	CONDITION
+men	O
+den	FAMILY
+yngste	FAMILY
+er	O
+ikke	NEG
+testet	EVENT
+ennå	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+arvet	O
+genet	CONDITION
+fra	O
+moren,	FAMILY
+som	O
+er	O
+frisk	CONDITION
+genbærer	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+en	AMOUNT
+søster	FAMILY
+som	O
+er	O
+testet	CONDITION
+negativt	CONDITION
+.	O 
+
+# sent_id = 
+Bestemor	FAMILY
+på	O
+morssiden	SIDE
+er	O
+død	CONDITION
+for	O
+mange	TEMPORAL
+år	TEMPORAL
+siden,	TEMPORAL
+men	O
+pasienten	SELF
+vet	NEG
+ikke	NEG
+om	O
+hun	O
+hadde	O
+noen	O
+hjertesykdom	CONDITION
+.	O 
+
+# sent_id = 
+Bestemoren	FAMILY
+har	O
+en	O
+gjenlevende	CONDITION
+søster	FAMILY
+som	O
+er	O
+i	AGE
+80-årene	AGE
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+fikk	O
+innoperert	O
+ICD	CONDITION
+i	TEMPORAL
+2012,	TEMPORAL
+og	O
+fikk	O
+utført	O
+myektomi	EVENT
+i	TEMPORAL
+2014	TEMPORAL
+.	O 
+
+# sent_id = 
+Både	O
+moren,	FAMILY
+bestemoren	FAMILY
+og	O
+flere	FAMILY
+andre	FAMILY
+på	O
+morssiden	SIDE
+har	O
+høyt	CONDITION
+blodtrykk	CONDITION
+og	O
+sliter	O
+med	O
+overvekt,	CONDITION
+men	O
+han	SELF
+er	O
+den	O
+eneste	O
+som	O
+har	O
+fått	O
+påvist	O
+HOCM	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	O
+non-obstruktiv	CONDITION
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+som	O
+ble	O
+oppdaget	O
+i	O
+forbindelse	O
+med	O
+helsekontroll	EVENT
+for	O
+dykkersertifikat	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+trent	O
+mye	O
+hele	O
+livet	O
+og	O
+har	O
+aldri	NEG
+hatt	O
+noen	O
+kardiale	CONDITION
+symptomer	CONDITION
+.	O 
+
+# sent_id = 
+Søsteren,	FAMILY
+som	O
+er	O
+to	TEMPORAL
+år	TEMPORAL
+eldre,	TEMPORAL
+har	O
+nylig	O
+vært	O
+hos	O
+kardiolog	O
+og	O
+også	O
+fått	O
+påvist	O
+fortykket	CONDITION
+septum	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+vet	NEG
+ikke	NEG
+om	NEG
+noen	O
+andre	O
+tilfeller	O
+av	O
+hjertesykdom	CONDITION
+i	O
+familien,	FAMILY
+og	O
+det	O
+har	O
+ikke	NEG
+vært	O
+noen	O
+tilfeller	O
+av	O
+plutselig	EVENT
+død	EVENT
+i	O
+slekten	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+eldst	O
+av	O
+tre	AMOUNT
+brødre,	FAMILY
+der	O
+han	O
+og	O
+den	O
+yngste	O
+broren	FAMILY
+har	O
+arvet	O
+genet	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+hadde	O
+tre	AMOUNT
+brødre,	FAMILY
+den	FAMILY
+eldste	FAMILY
+døde	EVENT
+60	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+av	O
+kreft,	CONDITION
+men	O
+hadde	O
+anginaplager	CONDITION
+.	O 
+
+# sent_id = 
+Onkelen	FAMILY
+hadde	O
+to	AMOUNT
+sønner	FAMILY
+som	O
+nå	O
+i	O
+er	O
+i	AGE
+40-årene,	AGE
+og	O
+den	FAMILY
+ene	FAMILY
+av	O
+dem	O
+har	O
+også	O
+fått	O
+brystsmerter	CONDITION
+og	O
+er	O
+under	O
+utredning	O
+for	O
+hjertesykdom	O
+uten	O
+at	O
+pasienten	O
+vet	O
+om	O
+han	O
+har	O
+fått	O
+noen	O
+diagnose	O
+.	O 
+
+# sent_id = 
+De	O
+to	AMOUNT
+andre	FAMILY
+av	O
+morens	FAMILY
+brødre	FAMILY
+skal	O
+være	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Den	O
+ene	O
+broren	FAMILY
+har	O
+to	AMOUNT
+voksne	O
+døtre,	FAMILY
+der	O
+den	FAMILY
+ene	FAMILY
+har	O
+hatt	O
+mange	AMOUNT
+besvimelser	EVENT
+og	O
+har	O
+vært	O
+utredet	O
+for	O
+epilepsi	CONDITION
+.	O 
+
+# sent_id = 
+Den	O
+siste	O
+onkelen	FAMILY
+på	O
+morssiden	SIDE
+har	O
+ingen	NEG
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Både	O
+farfaren,	FAMILY
+faren	FAMILY
+og	O
+farens	O
+søster,	FAMILY
+pasienten	SELF
+og	O
+hennes	O
+eldste	O
+søster	FAMILY
+har	O
+utviklet	O
+hjertesvikt	CONDITION
+.	O 
+
+# sent_id = 
+Farfaren	FAMILY
+døde	EVENT
+av	O
+hjertesvikt	CONDITION
+da	O
+han	O
+var	O
+i	TEMPORAL
+50-årene,	TEMPORAL
+og	O
+faren	FAMILY
+ble	O
+hjertetransplantert	EVENT
+da	O
+han	O
+var	O
+46	TEMPORAL
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+fire	AMOUNT
+søsken,	FAMILY
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+har	O
+fått	O
+påvist	O
+hypertrofi,	CONDITION
+og	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+skal	O
+ha	O
+hatt	O
+normal	CONDITION
+ekko	CONDITION
+og	O
+EKG	O
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ikke	NEG
+påvist	O
+noen	O
+åpenbar	O
+sykdomsgivende	O
+mutasjon	CONDITION
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Anamnestisk	O
+har	O
+han	SELF
+hatt	O
+to	AMOUNT
+synkoper,	EVENT
+den	O
+ene	O
+for	TEMPORAL
+1-2	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+mens	O
+han	O
+malte	O
+en	O
+husvegg,	O
+følte	O
+at	O
+det	O
+svartnet	O
+men	O
+hadde	O
+ikke	NEG
+opplevelse	O
+av	O
+hjertebank	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hatt	O
+en	AMOUNT
+episde	O
+med	O
+nærsynkope	EVENT
+under	O
+belastning	O
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+døde	EVENT
+plutselig	EVENT
+42	TEMPORAL
+år	TEMPORAL
+gammel,	TEMPORAL
+og	O
+hans	O
+mor	FAMILY
+døde	EVENT
+også	O
+i	TEMPORAL
+40-årene	TEMPORAL
+av	O
+hjertesykdom	CONDITION
+.	O 
+
+# sent_id = 
+I	O
+slekten	FAMILY
+er	O
+det	O
+betydelig	O
+opphopning	O
+av	O
+plutselig	EVENT
+død,	EVENT
+og	O
+flere	AMOUNT
+har	O
+pacemaker	CONDITION
+eller	O
+hjertestarter	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+vært	O
+til	O
+to	AMOUNT
+ablasjonsbehandlinger	EVENT
+for	O
+atrieflimmer	CONDITION
+.	O 
+
+# sent_id = 
+Kommer	O
+idag	O
+til	O
+ICD-kontroll,	O
+har	O
+hatt	O
+en	O
+episode	O
+sommeren	TEMPORAL
+2017	TEMPORAL
+med	O
+VT	EVENT
+som	O
+ble	O
+vellykket	O
+konvertert	O
+.	O 
+
+# sent_id = 
+Ved	O
+avlesning	O
+av	O
+ICD	O
+ser	O
+man	O
+at	O
+det	O
+har	O
+vært	O
+flere	AMOUNT
+NSVT-episoder,	EVENT
+og	O
+to	AMOUNT
+av	O
+disse	O
+har	O
+blitt	O
+vellykket	O
+behandlet	O
+med	O
+ATP	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+oppgradert	O
+ICD	CONDITION
+til	O
+CRT-D	CONDITION
+i	TEMPORAL
+fjor	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+fikk	O
+atrieflimmer	CONDITION
+for	O
+første	O
+gang	O
+da	O
+han	O
+var	O
+i	TEMPORAL
+tjueårene,	TEMPORAL
+og	O
+har	O
+vært	O
+gjennom	O
+tre	AMOUNT
+ablasjoner	EVENT
+.	O 
+
+# sent_id = 
+Etter	O
+at	O
+broren	FAMILY
+også	O
+fikk	O
+atrieflimmer	CONDITION
+nylig	O
+og	O
+ble	O
+gentestet,	EVENT
+har	O
+både	O
+pasienten	SELF
+og	O
+faren	FAMILY
+fått	O
+påvist	O
+samme	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+en	O
+tvillingbror,	FAMILY
+og	O
+begge	AMOUNT
+hans	O
+barn	FAMILY
+har	O
+også	O
+arytmiproblemer,	CONDITION
+og	O
+en	FAMILY
+av	FAMILY
+dem	FAMILY
+skal	O
+ha	O
+fått	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Også	O
+en	O
+onkel	FAMILY
+på	O
+farssiden	SIDE
+skal	O
+ha	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+voksne	O
+sønner	FAMILY
+som	O
+ikke	NEG
+har	O
+noen	O
+hjertesymptomer	CONDITION
+og	O
+ikke	NEG
+er	O
+testet,	EVENT
+og	O
+en	AMOUNT
+datter	FAMILY
+på	O
+femten	AGE
+som	O
+heller	O
+ikke	NEG
+er	O
+testet	EVENT
+ennå	O
+.	O 
+
+# sent_id = 
+Den	O
+yngste	O
+datteren	FAMILY
+er	O
+foreløpig	O
+ikke	NEG
+testet,	EVENT
+men	O
+har	O
+ikke	NEG
+hatt	O
+noen	O
+suspekte	O
+symptomer	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+kusine	FAMILY
+døde	EVENT
+uventet	EVENT
+under	O
+en	O
+løpetur	O
+ca	O
+40	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Hos	O
+moren	FAMILY
+er	O
+det	O
+påvist	O
+en	O
+mutasjon	CONDITION
+i	O
+MYL2	CONDITION
+som	O
+årsak	O
+til	O
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Bror	FAMILY
+med	O
+hjerteinfarkt	EVENT
+i	O
+43-års	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Alvorlig	O
+familieanamnese	O
+hvor	O
+hans	SELF
+morfar	FAMILY
+skal	O
+ha	O
+dødd	EVENT
+plutselig	EVENT
+52	TEMPORAL
+år	TEMPORAL
+gammel,	TEMPORAL
+og	O
+en	O
+onkel	FAMILY
+på	O
+morssiden	SIDE
+døde	EVENT
+51	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+I	O
+slekten	FAMILY
+ingen	NEG
+mistenke	NEG
+om	O
+arvelig	CONDITION
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Hennes	SELF
+mor	FAMILY
+har	O
+mutasjon	CONDITION
+i	O
+MYH7	CONDITION
+og	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Far	FAMILY
+og	O
+mor	O
+lever,	CONDITION
+og	O
+er	O
+henholdsvis	O
+82	AGE
+og	O
+78	TEMPORAL
+år	TEMPORAL
+gamle	O
+.	O 
+
+# sent_id = 
+Ingen	NEG
+opphopning	O
+av	O
+kardiovaskulære	CONDITION
+sykdommer	CONDITION
+i	O
+slekten	FAMILY
+som	O
+pasienten	SELF
+kjenner	O
+til	O
+.	O 
+
+# sent_id = 
+Indekspasienten	INDEX
+er	O
+hennes	SELF
+bror	FAMILY
+som	O
+døde	EVENT
+plutselig	EVENT
+20	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Ingen	NEG
+opphopning	O
+av	O
+arvelige	CONDITION
+sykdommer	CONDITION
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Farmor	FAMILY
+døde	EVENT
+i	O
+30-års	TEMPORAL
+alderen	TEMPORAL
+under	O
+usikre	O
+omstendigheter	O
+.	O 
+
+# sent_id = 
+Ingen	NEG
+flere	NEG
+kjente	O
+tilfeller	O
+med	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+og	O
+heller	O
+ingen	NEG
+tilfeller	O
+med	O
+plutselig	EVENT
+hjertedød	EVENT
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Onkelen	FAMILY
+hans	SELF
+omkom	EVENT
+i	O
+en	O
+bilulykke	EVENT
+da	O
+han	O
+var	O
+24	TEMPORAL
+år	TEMPORAL
+.	O 
+
+# sent_id = 
+Bestemoren	FAMILY
+hadde	O
+et	AMOUNT
+hjerteinfarkt	EVENT
+da	O
+hun	O
+var	O
+55	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	TEMPORAL 
+
+# sent_id = 
+Han	FAMILY
+har	O
+tre	AMOUNT
+biologiske	O
+barn	FAMILY
+som	O
+er	O
+mutasjonsnegative	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+tror	O
+mormoren	FAMILY
+hadde	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+er	O
+heterozygot	O
+for	O
+en	O
+TNNI3-mutasjon	CONDITION
+som	O
+i	O
+familien	FAMILY
+har	O
+gitt	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Bestefaren	FAMILY
+hadde	O
+prostatakreft	CONDITION
+da	O
+han	O
+døde	EVENT
+som	O
+90-åring	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+barn,	FAMILY
+en	AMOUNT
+datter	FAMILY
+og	O
+en	AMOUNT
+sønn,	FAMILY
+og	O
+til	O
+sammen	O
+5	AMOUNT
+barnebarn	FAMILY
+.	O 
+
+# sent_id = 
+I	O
+pasientens	SELF
+slekt	FAMILY
+er	O
+mutasjonen	CONDITION
+i	CONDITION
+TNNT2	CONDITION
+sikker	O
+årsak	O
+til	O
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+kjenner	O
+ikke	O
+så	O
+godt	O
+til	O
+sykdommer	CONDITION
+i	O
+familien,	FAMILY
+men	O
+pasientens	O
+bestemor	FAMILY
+har	O
+hjerteproblemer	CONDITION
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+også	O
+fått	O
+påvist	O
+genmutasjonen	CONDITION
+og	O
+har	O
+hjertesymptomer,	CONDITION
+og	O
+er	O
+under	O
+utredning	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+merket	O
+svimmelhet	CONDITION
+og	O
+brystsmerter	CONDITION
+under	O
+jogging	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+jenter	FAMILY
+fra	O
+et	O
+tidligere	O
+ekteskap,	O
+og	O
+en	AMOUNT
+gutt	FAMILY
+med	O
+sin	O
+andre	O
+kone	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ikke	NEG
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Både	O
+han	SELF
+og	O
+broren	FAMILY
+har	O
+hatt	O
+brystsmerter	CONDITION
+og	O
+vært	O
+plaget	O
+med	O
+tung	CONDITION
+pust	CONDITION
+ved	O
+anstrengelse	O
+i	O
+flere	TEMPORAL
+år,	TEMPORAL
+og	O
+broren	O
+har	O
+nå	O
+fått	O
+påvist	O
+septumhypertrofi	CONDITION
+og	O
+utløpsobstruksjon	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+er	O
+tre	TEMPORAL
+år	TEMPORAL
+eldre	TEMPORAL
+enn	O
+pasienten	SELF
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+to	AMOUNT
+barn	FAMILY
+i	O
+tenårene,	AGE
+disse	O
+skal	O
+ikke	NEG
+ha	O
+noen	O
+symptomer	CONDITION
+så	O
+vidt	O
+pasienten	O
+kjenner	O
+til	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+vet	NEG
+ikke	NEG
+om	O
+noen	O
+av	O
+tantebarna	FAMILY
+er	O
+gentestet	EVENT
+.	O 
+
+# sent_id = 
+I	O
+morens	FAMILY
+familie	FAMILY
+er	O
+det	O
+alvorlig	O
+familiær	O
+historie	O
+med	O
+tilfeller	O
+av	O
+kardiomyopati	CONDITION
+og	O
+plutselig	EVENT
+død	EVENT
+.	O 
+
+# sent_id = 
+Mor	FAMILY
+har	O
+fått	O
+2-kammer	O
+pacemaker	CONDITION
+etter	O
+AV-knuteablasjon	EVENT
+for	O
+atrieflimmer	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+forkammerflimmer	CONDITION
+og	O
+har	O
+hatt	O
+hjerneslag	EVENT
+.	O 
+
+# sent_id = 
+En	AMOUNT
+gang	AMOUNT
+under	O
+dykking	O
+ble	O
+han	SELF
+ikke	CONDITION
+kontaktbar	CONDITION
+og	O
+måtte	O
+reddes	O
+på	O
+land	O
+av	O
+dykkeinstruktør	O
+.	O 
+
+# sent_id = 
+Han	SELF
+falt	EVENT
+om	EVENT
+på	O
+vei	O
+til	O
+garasjen	O
+og	O
+da	O
+han	O
+kom	O
+til	O
+seg	O
+selv	O
+hadde	O
+han	O
+slått	EVENT
+hodet	EVENT
+i	O
+bakken	O
+.	O 
+
+# sent_id = 
+Han	SELF
+husker	NEG
+ikke	NEG
+om	O
+han	O
+hadde	O
+vondt	CONDITION
+i	CONDITION
+brystet	CONDITION
+eller	O
+følelse	O
+av	O
+hjertebank	CONDITION
+før	O
+synkopen	EVENT
+.	O 
+
+# sent_id = 
+Noen	O
+ganger,	O
+spesielt	O
+under	O
+feber	O
+eller	O
+annen	O
+sykdom,	O
+har	O
+hun	SELF
+følelse	O
+av	O
+at	O
+hun	O
+kommer	O
+til	O
+å	O
+besvime,	O
+men	O
+hun	O
+har	O
+aldri	NEG
+mistet	EVENT
+bevisstheten	EVENT
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+døde	EVENT
+av	O
+hjerneblødning	CONDITION
+da	O
+hun	O
+var	O
+i	TEMPORAL
+70-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+En	AMOUNT
+onkel	FAMILY
+på	O
+morssiden	SIDE
+hadde	O
+et	O
+hjerteinfarkt	EVENT
+da	O
+han	O
+ca	O
+60,	TEMPORAL
+og	O
+døde	EVENT
+kort	O
+tid	O
+etter	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+en	AMOUNT
+bror	FAMILY
+som	O
+er	O
+testet	CONDITION
+negativt,	CONDITION
+og	O
+tre	AMOUNT
+barn	FAMILY
+hvor	O
+den	FAMILY
+ene	FAMILY
+sønnen	O
+døde	O
+19	AGE
+år	AGE
+gammel	AGE
+i	O
+en	O
+trafikkulykke	EVENT
+.	O 
+
+# sent_id = 
+En	AMOUNT
+datter	FAMILY
+er	O
+testet	CONDITION
+negativt	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+to	AMOUNT
+biologiske	O
+døtre	FAMILY
+på	O
+syv	AGE
+og	O
+ni,	AGE
+en	AMOUNT
+tre	AGE
+år	AGE
+gammel	AGE
+sønn	FAMILY
+som	O
+er	O
+adoptert	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ikke	NEG
+hatt	O
+uforklarlig	EVENT
+synkope	EVENT
+.	O 
+
+# sent_id = 
+Farfaren	FAMILY
+var	O
+en	O
+av	O
+ni	AMOUNT
+søsken,	FAMILY
+og	O
+flere	FAMILY
+av	FAMILY
+søsknene	O
+døde	EVENT
+i	TEMPORAL
+barneårene	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+fikk	O
+ICD	CONDITION
+i	O
+år	TEMPORAL
+etter	O
+at	O
+han	O
+synkoperte	EVENT
+på	O
+trening	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	O
+fireåring	FAMILY
+og	O
+en	O
+toåring	FAMILY
+som	O
+begge	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Farmoren	FAMILY
+døde	EVENT
+72	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+av	O
+brystkreft,	CONDITION
+men	O
+hadde	O
+problemer	CONDITION
+med	CONDITION
+hjertet	CONDITION
+i	O
+mange	O
+år	O
+og	O
+pasienten	SELF
+mener	O
+hun	O
+hadde	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+en	O
+enkammer	O
+ICD	CONDITION
+som	O
+ikke	NEG
+har	O
+gitt	O
+terapi	EVENT
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+dokumentert	O
+ventrikkelflimmer	O
+i	O
+forbindelse	O
+med	O
+hjertestans	EVENT
+i	O
+2011	YEAR
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+vært	O
+regnet	O
+som	O
+frisk	CONDITION
+genbærer	CONDITION
+av	O
+en	O
+MYH7-mutasjon	CONDITION
+som	O
+har	O
+gitt	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+i	O
+fars	SIDE
+slekt	FAMILY
+.	O 
+
+# sent_id = 
+Indekspasienten	INDEX
+er	O
+morfaren,	FAMILY
+som	O
+fikk	O
+påvist	O
+hypertrofi	CONDITION
+i	O
+forbindelse	O
+med	O
+et	O
+hjerteinfarkt	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+ikke	NEG
+ønsket	O
+å	O
+la	O
+seg	O
+undersøke,	EVENT
+men	O
+er	O
+plaget	O
+med	O
+svimmelhet	CONDITION
+og	O
+tung	CONDITION
+pust,	CONDITION
+ifølge	O
+pasienten	SELF
+.	O 
+
+# sent_id = 
+To	FAMILY
+av	FAMILY
+morens	FAMILY
+onkler	FAMILY
+skal	O
+også	O
+hatt	O
+hjerteinfarkt,	CONDITION
+og	O
+en	FAMILY
+av	FAMILY
+dem	O
+har	O
+byttet	EVENT
+en	EVENT
+hjerteklaff,	EVENT
+men	O
+pasienten	SELF
+kjenner	NEG
+ikke	NEG
+til	NEG
+noen	O
+tilfeller	O
+av	O
+plutselig,	O
+uventet	EVENT
+død	EVENT
+på	O
+morssiden	SIDE
+.	O 
+
+# sent_id = 
+På	O
+farssiden	SIDE
+er	O
+det	O
+også	O
+flere	AMOUNT
+i	O
+besteforeldre-generasjonen	FAMILY
+som	O
+har	O
+hatt	O
+hjerteinfarkt,	FAMILY
+og	O
+faren,	FAMILY
+som	O
+er	O
+i	AGE
+60-årene,	AGE
+har	O
+anginaplager,	CONDITION
+men	O
+hun	SELF
+vet	NEG
+ikke	NEG
+om	O
+noen	O
+som	O
+har	O
+hatt	O
+hjertestans,	EVENT
+og	O
+det	O
+er	O
+ingen	NEG
+med	O
+pacemaker	CONDITION
+eller	O
+ICD	CONDITION
+på	O
+farssiden	SIDE
+som	O
+hun	O
+vet	O
+om	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+i	O
+hovedsak	O
+vært	O
+plaget	O
+med	O
+ekstraslag	CONDITION
+som	O
+hun	O
+merker	O
+best	O
+i	O
+hvile,	O
+hun	O
+har	O
+svimt	EVENT
+av	EVENT
+en	AMOUNT
+gang	AMOUNT
+i	O
+forbindelse	O
+med	O
+feber	EVENT
+da	TEMPORAL
+hun	TEMPORAL
+var	TEMPORAL
+barn,	TEMPORAL
+men	O
+har	O
+ikke	NEG
+besvimt	EVENT
+i	TEMPORAL
+voksen	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+hatt	O
+noen	O
+anfall	O
+med	O
+svimmelhet	CONDITION
+når	O
+hun	O
+reiser	O
+seg	O
+opp,	O
+og	O
+av	O
+og	O
+til	O
+følt	O
+seg	O
+uvel	O
+etter	O
+kraftig	O
+anstrengelse,	O
+men	O
+ikke	NEG
+merket	O
+rask	CONDITION
+hjerteaksjon	CONDITION
+eller	O
+hatt	O
+andre	O
+åpenbare	O
+arytmisymptomer	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+fikk	O
+påvist	O
+mutasjonen	CONDITION
+i	O
+2015,	YEAR
+og	O
+men	O
+allerede	O
+i	O
+EKG	EVENT
+tatt	O
+hos	O
+fastlegen	O
+i	O
+2009	YEAR
+er	O
+det	O
+tydelige	O
+hypertrofi-tegn	CONDITION
+.	O 
+
+# sent_id = 
+Første	O
+ekko	EVENT
+ble	O
+tatt	O
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden,	TEMPORAL
+og	O
+der	O
+ser	O
+man	O
+apical	O
+hypertrofi	O
+med	O
+største	O
+veggtykkelse	O
+18mm	O
+i	O
+distale	O
+septum	O
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ingen	NEG
+tegn	O
+til	O
+intraventrikulær	CONDITION
+hastighetsøkning	CONDITION
+eller	O
+utløpsobstruksjon	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+er	O
+mest	O
+plaget	O
+med	O
+anstrengelsesrelaterte	O
+brystsmerter,	CONDITION
+men	O
+har	O
+også	O
+kjent	O
+“dirring”	EVENT
+i	EVENT
+brystet	EVENT
+som	O
+kan	O
+komme	O
+både	O
+når	O
+han	O
+anstrenger	O
+seg	O
+og	O
+i	O
+hvile	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+ikke	NEG
+følt	O
+at	O
+han	O
+kommer	O
+til	O
+å	O
+besvime	EVENT
+når	O
+han	O
+har	O
+disse	O
+symptomene,	O
+men	O
+enkelte	AMOUNT
+ganger	AMOUNT
+har	O
+han	O
+kjent	O
+seg	O
+litt	O
+svimmel	CONDITION
+.	O 
+
+# sent_id = 
+Episodene	O
+er	O
+suspekte	O
+på	O
+tachycardi,	O
+men	O
+det	O
+er	O
+ikke	NEG
+påvist	O
+noen	O
+arytmi	CONDITION
+på	O
+langtids-EKG	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+adoptert,	CONDITION
+og	O
+han	O
+har	O
+ingen	NEG
+opplysninger	NEG
+om	O
+sine	O
+biologiske	FAMILY
+foreldre	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+sønn	FAMILY
+født	EVENT
+i	TEMPORAL
+2015	TEMPORAL
+som	O
+allerede	O
+kort	TEMPORAL
+etter	TEMPORAL
+fødselen	TEMPORAL
+fikk	O
+påvist	O
+arytmi	CONDITION
+og	O
+nå	O
+bruker	O
+betablokker	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+var	O
+mye	O
+plaget	O
+med	O
+ekstrasystoli	CONDITION
+under	TEMPORAL
+svangerskapet,	TEMPORAL
+og	O
+ble	O
+satt	O
+på	O
+Selo-zok	O
+med	O
+god	O
+effekt	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+vil	O
+gjerne	O
+slutte	O
+med	O
+betablokker,	O
+men	O
+Holter	EVENT
+har	O
+vist	O
+over	O
+10.000	O
+VES	EVENT
+per	O
+døgn,	O
+en	AMOUNT
+rekke	AMOUNT
+dubletter	EVENT
+og	O
+tripletter,	EVENT
+dog	O
+ingen	NEG
+lengre	O
+NSVT	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+fått	O
+genet	O
+fra	O
+moren,	NA
+som	O
+også	O
+har	O
+en	O
+fenotype	O
+med	O
+mye	O
+arytmi	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+er	O
+eldste	O
+av	O
+tre	AMOUNT
+søsken,	FAMILY
+hun	O
+har	O
+en	AMOUNT
+søster	FAMILY
+med	O
+samme	O
+foreldre,	FAMILY
+og	O
+en	AMOUNT
+halvbror	FAMILY
+som	O
+far	FAMILY
+fikk	O
+med	O
+sin	O
+andre	FAMILY
+kone	FAMILY
+.	O 
+
+# sent_id = 
+Mormoren	FAMILY
+døde	EVENT
+da	TEMPORAL
+moren	TEMPORAL
+var	TEMPORAL
+20,	TEMPORAL
+pasienten	SELF
+husker	NEG
+ikke	NEG
+når	O
+mormoren	O
+var	O
+født	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+vet	O
+ikke	O
+så	O
+mye	O
+om	O
+besteforeldrene,	FAMILY
+men	O
+både	O
+mormor	FAMILY
+og	O
+morfar	FAMILY
+kom	O
+fra	O
+store	O
+familier	O
+og	O
+hadde	O
+mange	AMOUNT
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Farmoren	FAMILY
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+og	O
+fyller	O
+100	AGE
+år	AGE
+i	O
+sommer	O
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+ble	O
+over	TEMPORAL
+80	TEMPORAL
+og	O
+døde	EVENT
+av	O
+kreft	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+er	O
+født	EVENT
+i	O
+1958	YEAR
+.	O 
+
+# sent_id = 
+Halvbroren	FAMILY
+døde	EVENT
+da	O
+han	O
+var	O
+17	TEMPORAL
+år	TEMPORAL
+etter	O
+en	O
+hjertestans,	EVENT
+og	O
+etter	O
+dette	O
+ble	O
+både	O
+han	SELF
+og	O
+søsteren	FAMILY
+gentestet	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+arvet	O
+samme	CONDITION
+gen	CONDITION
+som	O
+halvbroren	FAMILY
+.	O 
+
+# sent_id = 
+Mutasjonen	CONDITION
+kommer	O
+fra	O
+fars	SIDE
+side	SIDE
+av	O
+familien,	FAMILY
+der	O
+både	O
+far	FAMILY
+og	O
+en	AMOUNT
+onkel	FAMILY
+er	O
+friske	CONDITION
+genbærere,	CONDITION
+men	O
+de	O
+hadde	O
+en	AMOUNT
+bror	FAMILY
+som	O
+døde	EVENT
+uventet	EVENT
+da	O
+han	O
+var	O
+tenåring	TEMPORAL
+.	O 
+
+# sent_id = 
+Vi	O
+har	O
+ingen	NEG
+genetisk	CONDITION
+informasjon	CONDITION
+om	O
+pasientens	SELF
+avdøde	CONDITION
+bestemor	FAMILY
+.	O 
+
+# sent_id = 
+Ingen	NEG
+etterkommere	FAMILY
+av	O
+bestemors	FAMILY
+søsken	FAMILY
+har	O
+hatt	O
+åpenbare	O
+sykdomstegn	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+blitt	O
+testet	EVENT
+med	O
+vanlig	O
+HCM-panel	O
+som	O
+var	O
+negativt,	NEG
+men	O
+utvidet	O
+testing	EVENT
+har	O
+vist	O
+en	O
+sjelden	O
+variant	O
+i	O
+LAMP2-genet	CONDITION
+som	O
+er	O
+en	O
+mulig	O
+årsak	O
+til	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+fire	AMOUNT
+barn	FAMILY
+med	O
+tre	AMOUNT
+ulike	O
+fedre;	FAMILY
+to	AMOUNT
+gutter	FAMILY
+på	O
+17	AGE
+og	O
+12	AGE
+med	O
+sin	O
+første	O
+mann,	FAMILY
+en	AMOUNT
+jente	FAMILY
+på	O
+8	AGE
+med	O
+en	O
+tidligere	O
+samboer,	FAMILY
+og	O
+en	AMOUNT
+gutt	FAMILY
+på	O
+4	AGE
+med	O
+nåværende	O
+samboer	FAMILY
+.	O 
+
+# sent_id = 
+De	O
+to	AMOUNT
+eldste	O
+guttene	FAMILY
+er	O
+friske,	CONDITION
+men	O
+17-åringen	FAMILY
+har	O
+nettopp	O
+fått	O
+påvist	O
+at	O
+han	O
+er	O
+mutasjonsbærer	CONDITION
+og	O
+skal	O
+til	O
+ekko	EVENT
+i	O
+løpet	O
+av	O
+noen	TEMPORAL
+uker	TEMPORAL
+.	O 
+
+# sent_id = 
+Datteren	FAMILY
+har	O
+besvimt	EVENT
+flere	AMOUNT
+ganger	AMOUNT
+under	O
+lek	O
+i	O
+barnehagen	O
+og	O
+på	O
+skolen,	O
+og	O
+har	O
+vært	O
+utredet	EVENT
+for	O
+epilepsi	CONDITION
+uten	NEG
+funn	O
+.	O 
+
+# sent_id = 
+Den	O
+yngste	O
+sønnen	FAMILY
+hadde	O
+et	O
+“hull	O
+i	CONDITION
+hjertet”	CONDITION
+da	O
+han	O
+ble	O
+født,	O
+men	O
+dette	O
+skal	O
+ha	O
+reparert	O
+seg	O
+selv	O
+og	O
+han	O
+regnes	O
+nå	O
+som	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Ingen	NEG
+av	O
+de	FAMILY
+tre	FAMILY
+yngste	FAMILY
+barna	FAMILY
+hennes	O
+er	O
+gentestet	CONDITION
+ennå	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+hadde	O
+en	O
+periode	O
+med	O
+mye	O
+hjertebank	CONDITION
+i	TEMPORAL
+puberteten,	TEMPORAL
+men	O
+tilstanden	O
+var	O
+rolig	O
+etter	O
+det	O
+og	O
+fram	O
+til	O
+første	O
+svangerskap	O
+.	O 
+
+# sent_id = 
+Etter	O
+at	O
+hun	SELF
+fikk	O
+barn	FAMILY
+nummer	O
+to	AMOUNT
+har	O
+hun	O
+nesten	O
+hver	O
+natt	O
+våknet	O
+med	O
+følelse	O
+av	O
+at	O
+hjertet	CONDITION
+slår	CONDITION
+urolig,	CONDITION
+og	O
+hun	O
+syns	O
+hun	O
+har	O
+blitt	O
+mer	O
+og	O
+mer	O
+tungpustet	CONDITION
+når	O
+hun	O
+går	O
+i	O
+trapper	O
+eller	O
+oppoverbakker	O
+.	O 
+
+# sent_id = 
+Både	O
+faren	FAMILY
+og	O
+moren	FAMILY
+har	O
+mange	AMOUNT
+søsken	FAMILY
+som	O
+alle	FAMILY
+er	O
+i	CONDITION
+live	CONDITION
+og	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+ble	O
+behandlet	O
+for	O
+angstplager	CONDITION
+i	TEMPORAL
+mange	TEMPORAL
+år	TEMPORAL
+før	O
+hun	O
+fikk	O
+påvist	O
+arytmi	CONDITION
+.	O 
+
+# sent_id = 
+Bare	O
+en	FAMILY
+av	FAMILY
+søstrene	FAMILY
+har	O
+ønsket	O
+å	O
+la	O
+seg	O
+genteste,	EVENT
+og	O
+hun	O
+viste	O
+seg	O
+å	O
+ikke	NEG
+ha	O
+arvet	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+to	AMOUNT
+tantebarn	FAMILY
+på	O
+seks	AGE
+og	O
+ni	AGE
+som	O
+ikke	NEG
+er	O
+gentestet	EVENT
+ennå	O
+og	O
+som	O
+begge	O
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+falt	EVENT
+om	EVENT
+på	O
+sykkelen	O
+under	O
+en	O
+spinningtime	O
+og	O
+det	O
+ble	O
+startet	O
+umiddelbar	O
+HLR	EVENT
+.	O 
+
+# sent_id = 
+Treningssenteret	O
+hadde	O
+en	O
+automatisk	O
+defibrillator,	O
+og	O
+han	O
+fikk	O
+to	AMOUNT
+sjokk	EVENT
+før	O
+han	SELF
+våknet	EVENT
+til	O
+.	O 
+
+# sent_id = 
+Han	SELF
+hadde	O
+normale	CONDITION
+kransårer	CONDITION
+på	O
+angiografi,	EVENT
+men	O
+EKG	EVENT
+ga	O
+mistanke	O
+om	O
+hypertrofi,	CONDITION
+og	O
+ekko	EVENT
+viste	O
+betydelige	O
+apicale	O
+forandringer	O
+med	O
+midtventrikulær	CONDITION
+hastighetsøkning	CONDITION
+og	O
+begynnende	O
+apical	CONDITION
+aneurisme	CONDITION
+.	O 
+
+# sent_id = 
+Før	O
+han	SELF
+fikk	O
+ICD	CONDITION
+ble	O
+det	O
+gjort	O
+MR	EVENT
+cor	EVENT
+som	O
+viser	O
+svær	O
+fibrose	CONDITION
+både	O
+apicalt	O
+og	O
+i	O
+store	O
+deler	O
+av	O
+septum,	O
+og	O
+største	O
+veggtykkelse	O
+ble	O
+målt	O
+til	O
+22mm	O
+i	O
+apicale	O
+lateralvegg	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+forteller	O
+at	O
+han	O
+hadde	O
+merket	O
+veldig	O
+rask	CONDITION
+puls	CONDITION
+under	O
+hard	O
+trening	O
+tidligere,	O
+og	O
+at	O
+han	O
+av	O
+og	O
+til	O
+kunne	O
+bli	O
+svimmel	CONDITION
+under	O
+disse	O
+anfallene,	O
+men	O
+han	O
+hadde	O
+ingen	NEG
+anelse	NEG
+om	O
+at	O
+han	O
+var	O
+hjertesyk,	CONDITION
+og	O
+han	O
+kjenner	NEG
+ikke	NEG
+til	NEG
+noen	O
+andre	O
+med	O
+hjertesykdom	CONDITION
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Etter	O
+hjertestansen	EVENT
+for	TEMPORAL
+to	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+fikk	O
+han	SELF
+en	O
+enkammer	O
+ICD	CONDITION
+(Biotronik),	O
+og	O
+det	O
+har	O
+vært	O
+registert	O
+flere	O
+episoder	O
+med	O
+korte	O
+NSVT	EVENT
+og	O
+en	AMOUNT
+lengre	O
+episode	O
+med	O
+frekvens	O
+190/min	O
+i	O
+april-18	O
+som	O
+ble	O
+vellykket	O
+behandlet	O
+med	O
+ATP	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+aldri	NEG
+fått	O
+sjokk	EVENT
+av	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Det	O
+ser	O
+ut	O
+som	O
+om	O
+hun	SELF
+har	O
+fått	O
+to	AMOUNT
+urettmessige	EVENT
+støt	EVENT
+grunnet	O
+en	O
+reentry-tachycardi	CONDITION
+med	O
+frekvens	O
+over	O
+200	O
+som	O
+ICD	CONDITION
+har	O
+tolket	O
+som	O
+VT	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+8	AGE
+år,	AGE
+en	AMOUNT
+jente	FAMILY
+på	O
+6,	AGE
+og	O
+en	AMOUNT
+adoptivsønn	FAMILY
+på	O
+3	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+Han	SELF
+hadde	O
+flere	AMOUNT
+brødre,	FAMILY
+og	O
+to	FAMILY
+av	FAMILY
+dem	O
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+og	O
+rundt	O
+80	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+hadde	O
+en	AMOUNT
+søster	FAMILY
+og	O
+to	AMOUNT
+brødre	FAMILY
+,	O
+søsteren	O
+døde	EVENT
+plutselig	EVENT
+31	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Farens	FAMILY
+søster	FAMILY
+hadde	O
+en	AMOUNT
+sønn	FAMILY
+og	O
+en	AMOUNT
+datter	FAMILY
+,	O
+sønnen	O
+har	O
+to	AMOUNT
+friske	CONDITION
+barn	FAMILY
+,	O
+datteren	FAMILY
+hadde	O
+tre	AMOUNT
+barn	FAMILY
+men	O
+et	FAMILY
+av	FAMILY
+dem	FAMILY
+døde	EVENT
+4	TEMPORAL
+måneder	TEMPORAL
+gammel	TEMPORAL
+i	O
+krybbedød	EVENT
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+bror	FAMILY
+har	O
+en	AMOUNT
+sønn	FAMILY
+født	EVENT
+i	O
+2003	YEAR
+og	O
+en	AMOUNT
+datter	FAMILY
+født	EVENT
+i	O
+2008	YEAR
+,	O
+sønnen	FAMILY
+har	O
+nylig	O
+fått	O
+påvist	O
+familiens	CONDITION
+mutasjon	CONDITION
+,	O
+men	O
+datteren	FAMILY
+er	O
+ikke	NEG
+testet	CONDITION
+ennå	O
+.	O 
+
+# sent_id = 
+Mormoren	FAMILY
+er	O
+over	AGE
+90	AGE
+år	AGE
+og	O
+sprek	CONDITION
+,	O
+men	O
+har	O
+hatt	O
+et	AMOUNT
+hjerteinfarkt	EVENT
+for	O
+noen	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+og	O
+har	O
+visstnok	O
+en	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+vært	O
+plaget	O
+med	O
+hjertebank	CONDITION
+i	TEMPORAL
+mange	TEMPORAL
+år	TEMPORAL
+,	O
+morens	FAMILY
+ene	FAMILY
+søster	FAMILY
+har	O
+blitt	O
+ablasjonsbehandlet	EVENT
+for	O
+en	O
+arytmi	CONDITION
+,	O
+og	O
+den	FAMILY
+andre	FAMILY
+søsteren	FAMILY
+skal	O
+ha	O
+fått	O
+påvist	O
+voksende	CONDITION
+hjerte	CONDITION
+.	O 
+
+# sent_id = 
+De	O
+har	O
+lite	O
+kontakt	O
+med	O
+morens	FAMILY
+bror	FAMILY
+som	O
+bor	O
+i	O
+USA	O
+,	O
+men	O
+pasienten	SELF
+har	O
+hørt	O
+at	O
+han	O
+skal	O
+ha	O
+vært	O
+innlagt	EVENT
+flere	AMOUNT
+ganger	AMOUNT
+med	O
+et	O
+hjerteproblem	CONDITION
+.	O 
+
+# sent_id = 
+Indekspasienten	INDEX
+skal	O
+ha	O
+vært	O
+en	O
+kusine	FAMILY
+av	O
+farfar	FAMILY
+,	O
+det	O
+er	O
+usikkert	O
+hva	O
+slags	O
+fenotype	CONDITION
+denne	O
+kusinen	O
+hadde	O
+,	O
+men	O
+flere	FAMILY
+av	FAMILY
+farfars	FAMILY
+brøde	FAMILY
+skal	O
+ha	O
+hatt	O
+angina	CONDITION
+og	O
+hjertefarkt	EVENT
+i	O
+relativt	O
+ung	TEMPORAL
+alder	TEMPORAL
+,	O
+og	O
+ingen	FAMILY
+av	O
+dem	O
+ble	O
+over	O
+70	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+eldre	O
+brøde	FAMILY
+og	O
+en	AMOUNT
+yngre	O
+søster	FAMILY
+,	O
+den	O
+eldste	O
+broren	FAMILY
+fikk	O
+påvist	O
+HCM	CONDITION
+etter	O
+en	O
+synkope-episode	EVENT
+for	O
+noen	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+,	O
+og	O
+etter	O
+dette	O
+ble	O
+mutasjonen	CONDITION
+påvist	O
+hos	O
+alle	O
+fire	O
+.	O 
+
+# sent_id = 
+Den	O
+eldste	O
+broren	FAMILY
+har	O
+tre	AMOUNT
+voksne	O
+barn	FAMILY
+,	O
+ingen	NEG
+av	O
+dem	O
+er	O
+gentestet	CONDITION
+ennå	O
+,	O
+men	O
+en	FAMILY
+av	FAMILY
+sønnene	FAMILY
+har	O
+nylig	O
+vært	O
+innlagt	EVENT
+Ahus	O
+etter	O
+hjertestans	EVENT
+og	O
+skal	O
+ha	O
+fått	O
+implantert	EVENT
+hjertestarter	EVENT
+der	O
+.	O 
+
+# sent_id = 
+Både	O
+faren	FAMILY
+og	O
+moren	FAMILY
+har	O
+nylig	TEMPORAL
+vært	O
+til	O
+undersøkelse	EVENT
+av	EVENT
+hjertet	EVENT
+,	O
+pasienten	SELF
+vet	O
+ikke	O
+hva	O
+faren	FAMILY
+har	O
+fått	O
+vite	O
+,	O
+men	O
+moren	FAMILY
+fikk	O
+beskjed	O
+om	O
+at	O
+hun	O
+burde	O
+undersøkes	O
+videre	O
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+har	O
+giftet	O
+seg	O
+på	O
+nytt	O
+,	O
+og	O
+har	O
+en	AMOUNT
+fem	AGE
+år	AGE
+gammel	AGE
+sønn	FAMILY
+med	O
+sin	O
+nye	O
+kone	O
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+ikke	NEG
+villet	O
+teste	EVENT
+seg	O
+,	O
+men	O
+halvbroren	FAMILY
+har	O
+nå	O
+fått	O
+påvist	O
+samme	CONDITION
+mutasjon	CONDITION
+som	O
+pasienten	SELF
+.	O 
+
+# sent_id = 
+Mormor	FAMILY
+hadde	O
+fem	AMOUNT
+søsken	FAMILY
+,	O
+en	O
+søster	FAMILY
+døde	EVENT
+i	TEMPORAL
+40-årene	TEMPORAL
+i	O
+en	O
+ulykke	O
+,	O
+og	O
+en	FAMILY
+annen	FAMILY
+døde	EVENT
+ca	TEMPORAL
+50	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+av	O
+hjertesykdom	CONDITION
+etter	O
+at	O
+hun	O
+hadde	O
+vært	O
+syk	O
+lenge	O
+,	O
+mens	O
+to	AMOUNT
+brødre	FAMILY
+fortsatt	O
+er	O
+i	CONDITION
+live	CONDITION
+og	O
+over	AGE
+70	AGE
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+merket	O
+hjertebank	CONDITION
+og	O
+hatt	O
+svimmelhetsanfall	EVENT
+helt	O
+siden	TEMPORAL
+tenårene	TEMPORAL
+,	O
+men	O
+hadde	O
+sin	O
+første	O
+synkope	EVENT
+da	O
+hun	O
+var	O
+21	TEMPORAL
+i	O
+forbindelse	O
+med	O
+at	O
+hun	O
+trente	O
+spinning	O
+,	O
+og	O
+hadde	O
+så	O
+flere	AMOUNT
+synkoper	EVENT
+i	O
+forbindelse	O
+med	O
+anstrengelse	O
+de	O
+neste	O
+årene	O
+,	O
+uten	NEG
+at	NEG
+dette	O
+førte	O
+til	O
+ytterligere	O
+utredning	EVENT
+.	O 
+
+# sent_id = 
+Først	O
+etter	O
+at	O
+hun	SELF
+ble	O
+innlagt	EVENT
+Ullevål	O
+sykehus	O
+etter	O
+synkope	EVENT
+under	O
+Sentrumsløpet	O
+i	O
+2008	TEMPORAL
+ble	O
+det	O
+påvist	O
+EKG-forandringer	CONDITION
+og	O
+fortykket	CONDITION
+septum	CONDITION
+på	O
+ekko	O
+,	O
+gentest	EVENT
+viste	O
+MYH7-mutasjon	CONDITION
+,	O
+og	O
+familiescreening	O
+har	O
+vist	O
+at	O
+både	O
+hennes	O
+mor	FAMILY
+,	O
+hennes	O
+eldre	O
+søster	FAMILY
+,	O
+søsterens	O
+to	AMOUNT
+barn	FAMILY
+(en	AMOUNT
+gutt	FAMILY
+og	O
+en	AMOUNT
+jente)	FAMILY
+og	O
+hennes	O
+egen	O
+sønn	FAMILY
+har	O
+samme	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Indekspasienten	INDEX
+i	O
+familien	O
+er	O
+morens	FAMILY
+ene	FAMILY
+av	O
+to	AMOUNT
+søstre	FAMILY
+,	O
+som	O
+har	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+,	O
+moren	O
+er	O
+testet	CONDITION
+positiv	CONDITION
+men	O
+foreløpig	O
+ikke	NEG
+undersøkt	EVENT
+,	O
+pasientens	SELF
+søster	FAMILY
+har	O
+også	O
+arvet	CONDITION
+mutasjonen	CONDITION
+men	O
+er	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Hans	SELF
+oldemor	FAMILY
+(mor	FAMILY
+til	O
+farmor)	FAMILY
+døde	EVENT
+plutselig	EVENT
+ca	O
+50	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Ingen	NEG
+suspekt	O
+hejrtesykdom	CONDITION
+hos	O
+noen	O
+av	O
+pasientens	SELF
+foreldre	FAMILY
+,	O
+men	O
+en	O
+kusine	FAMILY
+på	O
+morssiden	SIDE
+døde	EVENT
+plutselig	EVENT
+ca	TEMPORAL
+25	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+da	O
+hun	O
+var	O
+gravid	CONDITION
+i	O
+6.	O
+måned	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+friske	CONDITION
+døtre	FAMILY
+og	O
+broren	FAMILY
+har	O
+to	AMOUNT
+friske	CONDITION
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+mor	FAMILY
+døde	EVENT
+for	TEMPORAL
+15	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+,	O
+rundt	O
+40	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+,	O
+av	O
+det	O
+som	O
+høres	O
+ut	O
+som	O
+hypertrofisk	CONDITION
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	O
+halvbror	FAMILY
+med	O
+hjertesykdom	CONDITION
+,	O
+han	O
+har	O
+blant	O
+annet	O
+ICD	CONDITION
+,	O
+og	O
+en	AMOUNT
+kusine	FAMILY
+og	O
+hennes	O
+far	FAMILY
+har	O
+begge	O
+samme	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+En	O
+fetter	FAMILY
+på	O
+farssiden	SIDE
+ble	O
+hjertetransplantert	EVENT
+på	TEMPORAL
+90-tallet	TEMPORAL
+,	O
+og	O
+hans	O
+far	FAMILY
+skal	O
+ha	O
+dødd	EVENT
+i	O
+rundt	TEMPORAL
+30	TEMPORAL
+års	TEMPORAL
+alder	TEMPORAL
+uten	NEG
+at	O
+han	O
+hadde	O
+noen	O
+kjent	CONDITION
+sykdom	CONDITION
+på	O
+forhånd	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+i	O
+ti	O
+års	O
+tid	O
+merket	O
+at	O
+hun	O
+har	O
+blitt	O
+raskere	O
+sliten	O
+ved	O
+fysisk	O
+anstrengelse	O
+enn	O
+hun	O
+skulle	O
+ønske	O
+,	O
+og	O
+hennes	O
+søster	FAMILY
+skal	O
+også	O
+ha	O
+omtrent	O
+samme	O
+plager	O
+,	O
+i	O
+tillegg	O
+til	O
+hjertebank	CONDITION
+.	O 
+
+# sent_id = 
+Etter	O
+at	O
+broren	FAMILY
+fikk	O
+innlagt	O
+pacemaker	CONDITION
+,	O
+har	O
+han	SELF
+selv	O
+merket	O
+mer	O
+hjertebank	EVENT
+,	O
+både	O
+enkeltstående	O
+ekstraslag	EVENT
+og	O
+perioder	O
+av	O
+noen	O
+sekunders	O
+varighet	O
+der	O
+hjertet	CONDITION
+går	CONDITION
+raskt	CONDITION
+og	O
+han	O
+kan	O
+merke	O
+at	O
+han	O
+blir	O
+svimmel.	CONDITION 
+
+# sent_id = 
+Både	O
+mor	FAMILY
+og	O
+far	FAMILY
+har	O
+hjertesykdom	CONDITION
+,	O
+far	O
+var	O
+storrøyker	CONDITION
+,	O
+hadde	O
+infarkt	EVENT
+da	TEMPORAL
+han	TEMPORAL
+var	TEMPORAL
+67	TEMPORAL
+,	O
+har	O
+hjertesvikt	CONDITION
+og	O
+nylig	O
+fått	O
+innlagt	O
+pacemaker	CONDITION
+,	O
+mor	O
+har	O
+hatt	O
+angina	CONDITION
+i	TEMPORAL
+mange	TEMPORAL
+år	TEMPORAL
+.	O 
+
+# sent_id = 
+Alle	AMOUNT
+søsknene	FAMILY
+har	O
+nå	O
+fått	O
+påvist	O
+tegn	CONDITION
+til	CONDITION
+sykdom	CONDITION
+i	O
+relativt	TEMPORAL
+ung	TEMPORAL
+alder;	TEMPORAL
+broren	FAMILY
+er	O
+22	AGE
+og	O
+søsteren	FAMILY
+er	O
+26	O
+år	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+må	O
+selv	O
+orientere	O
+familien	O
+om	O
+genfunnet	O
+,	O
+og	O
+dersom	O
+foreldrene	FAMILY
+eller	O
+søsteren	FAMILY
+ønsker	O
+å	O
+bli	O
+testet	O
+,	O
+kan	O
+de	O
+henvende	O
+seg	O
+til	O
+avdeling	O
+for	O
+medisinsk	O
+genetikk	O
+.	O 
+
+# sent_id = 
+Gentest	O
+har	O
+størst	O
+betydning	O
+for	O
+pasientens	SELF
+to	AMOUNT
+barn	FAMILY
+,	O
+som	O
+ikke	O
+behøver	O
+å	O
+testes	O
+før	O
+de	O
+blir	O
+10-12	O
+år	O
+gamle	O
+,	O
+og	O
+for	O
+broren	FAMILY
+og	O
+hans	O
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Bestefaren	FAMILY
+ble	O
+hjerteoperert	EVENT
+i	O
+England	O
+på	TEMPORAL
+80-tallet	TEMPORAL
+,	O
+og	O
+døde	EVENT
+75	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Både	O
+mor	FAMILY
+og	O
+far	FAMILY
+har	O
+barn	FAMILY
+fra	O
+tidligere	O
+ekteskap	O
+,	O
+men	O
+ingen	NEG
+av	O
+pasientens	SELF
+halvsøsken	FAMILY
+har	O
+hatt	O
+hjerteproblemer	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+tre	AMOUNT
+barn	FAMILY
+,	O
+født	O
+2013	YEAR
+(jente)	FAMILY
+,	O
+2016	YEAR
+(gutt)	FAMILY
+og	O
+2018	YEAR
+(gutt)	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+24	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+datter	FAMILY
+fra	O
+forrige	O
+ekteskap	O
+,	O
+og	O
+en	AMOUNT
+18	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+datter	FAMILY
+med	O
+nåværende	O
+samboer	FAMILY
+,	O
+kun	O
+den	O
+eldste	O
+har	O
+så	O
+langt	O
+vært	EVENT
+til	EVENT
+ekko	EVENT
+og	O
+fått	O
+påvist	O
+hypertrofi	CONDITION
+,	O
+men	O
+den	O
+andre	O
+datteren	O
+er	O
+også	O
+henvist	O
+hit	O
+og	O
+har	O
+time	O
+i	O
+april	O
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+flere	O
+alvorlige	O
+hendelser	O
+på	O
+fars	SIDE
+side	SIDE
+av	O
+slekten	FAMILY
+,	O
+både	O
+tidlige	EVENT
+dødsfall	EVENT
+og	O
+hjertestans	EVENT
+,	O
+og	O
+pasientens	SELF
+yngste	O
+bror	FAMILY
+døde	EVENT
+14	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+i	O
+en	O
+drukningsulykke	EVENT
+.	O 
+
+# sent_id = 
+Både	O
+moren	FAMILY
+og	O
+flere	AMOUNT
+av	O
+tantene	FAMILY
+skal	O
+ha	O
+vært	O
+plaget	O
+med	O
+hjertebank	CONDITION
+i	O
+mange	O
+år	O
+,	O
+og	O
+i	O
+hvert	O
+fall	O
+to	FAMILY
+av	FAMILY
+dem	FAMILY
+har	O
+pacemaker	CONDITION
+.	O 
+
+# sent_id = 
+Tvillingbroren	FAMILY
+hans	SELF
+har	O
+hatt	O
+et	O
+mye	O
+mer	O
+aggressivt	O
+forløp	O
+med	O
+hjertesvikt	CONDITION
+fra	O
+han	O
+var	O
+i	TEMPORAL
+tenårene	TEMPORAL
+,	O
+hjertestans	EVENT
+da	O
+han	O
+var	O
+22	TEMPORAL
+,	O
+og	O
+han	O
+ble	O
+transplantert	CONDITION
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+da	O
+han	O
+var	O
+26	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Både	O
+hun	SELF
+og	O
+broren	FAMILY
+har	O
+vært	O
+fulgt	O
+opp	O
+ved	O
+barnemedisinsk	O
+avdeling	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+ikke	O
+så	O
+god	O
+kontakt	O
+med	O
+søstren	FAMILY
+,	O
+men	O
+kjenner	NEG
+ikke	NEG
+til	NEG
+at	O
+hun	O
+har	O
+hjertesykdom	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+ikke	NEG
+ønsket	NEG
+å	O
+la	O
+seg	O
+teste	EVENT
+.	O 
+
+# sent_id = 
+Datteren	FAMILY
+fikk	O
+påvist	O
+en	O
+genfeil	CONDITION
+kort	TEMPORAL
+etter	TEMPORAL
+fødsel	TEMPORAL
+,	O
+etter	O
+det	O
+har	O
+pasientens	SELF
+familie	FAMILY
+blitt	O
+gentestet	O
+,	O
+og	O
+samme	CONDITION
+mutasjon	CONDITION
+er	O
+funnet	O
+hos	O
+pasientens	O
+mor	FAMILY
+,	O
+men	O
+ingen	NEG
+av	O
+pasientens	O
+to	AMOUNT
+søstre	FAMILY
+har	O
+den	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+arvet	O
+en	O
+MYH7-mutasjon	CONDITION
+fra	O
+moren	FAMILY
+,	O
+og	O
+en	O
+MYBPC3-variant	CONDITION
+som	O
+også	O
+kan	O
+være	O
+sykdomsgivende	O
+fra	O
+far	FAMILY
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+en	AMOUNT
+eldre	O
+bror	FAMILY
+og	O
+en	AMOUNT
+eldre	O
+søster	FAMILY
+,	O
+ingen	NEG
+av	O
+dem	O
+har	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+sannsynligvis	NEG
+bestefar	FAMILY
+på	O
+farssiden	SIDE
+som	O
+hadde	O
+genet	CONDITION
+,	O
+da	O
+det	O
+er	O
+flere	AMOUNT
+tilfeller	O
+av	O
+tidlig	EVENT
+død	EVENT
+blant	O
+hans	O
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+mye	O
+hjertesykdom	CONDITION
+både	O
+på	O
+fars-	O
+og	O
+morssiden	O
+av	O
+slekten	FAMILY
+.	O 
+
+# sent_id = 
+Både	O
+pasienten	SELF
+far	FAMILY
+og	O
+pasientens	O
+farfar	FAMILY
+utviklet	O
+tidlig	O
+hjertesvikt	CONDITION
+og	O
+ble	O
+hjertetransplantert	CONDITION
+før	O
+40	TEMPORAL
+års	TEMPORAL
+alder	TEMPORAL 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+eldst	O
+av	O
+tre	AMOUNT
+søstre	FAMILY
+,	O
+hun	O
+er	O
+så	O
+langt	O
+den	O
+eneste	O
+som	O
+har	O
+fått	O
+påvist	O
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+barn	FAMILY
+,	O
+sønnen	FAMILY
+har	O
+fått	O
+påvist	O
+familiens	CONDITION
+mutasjon	CONDITION
+,	O
+mens	O
+datteren	FAMILY
+er	O
+gennegativ.	CONDITION 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+er	O
+genpositiv	O
+,	O
+følges	O
+her	O
+for	O
+HCM	CONDITION
+og	O
+har	O
+nylig	TEMPORAL
+fått	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Både	O
+moren	FAMILY
+,	O
+morens	O
+bror	FAMILY
+,	O
+morfar	FAMILY
+og	O
+pasientens	SELF
+fetter	FAMILY
+og	O
+kusine	FAMILY
+på	O
+morssiden	SIDE
+har	O
+fått	O
+påvist	O
+mutasjonen	CONDITION
+,	O
+og	O
+bortsett	NEG
+fra	NEG
+søskenbarna	FAMILY
+har	O
+alle	O
+også	O
+fenotypen	CONDITION
+.	O 
+
+# sent_id = 
+Alle	O
+fire	AMOUNT
+barna	FAMILY
+,	O
+to	AMOUNT
+gutter	FAMILY
+og	O
+to	AMOUNT
+jenter	FAMILY
+,	O
+har	O
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+to	AMOUNT
+barn	FAMILY
+på	O
+8	AGE
+og	O
+11	AGE
+år	AGE
+,	O
+men	O
+hadde	O
+også	O
+en	AMOUNT
+dødfødsel	EVENT
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	O
+tvillingbror	FAMILY
+som	O
+er	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Både	O
+pasienten	SELF
+og	O
+søsteren	FAMILY
+har	O
+tvillingsønner	FAMILY
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ingen	NEG
+barn	FAMILY
+,	O
+men	O
+broren	FAMILY
+som	O
+også	O
+er	O
+genbærer	CONDITION
+har	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+14	TEMPORAL
+og	O
+en	AMOUNT
+datter	FAMILY
+på	O
+17	TEMPORAL
+som	O
+begge	O
+er	O
+genpositive	CONDITION
+og	O
+der	O
+jenta	O
+har	O
+fått	O
+påvist	O
+fortykket	CONDITION
+hjertemuskel	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+kjenner	NEG
+ikke	NEG
+til	NEG
+at	O
+det	O
+er	O
+påvist	O
+noen	O
+sykdom	CONDITION
+hos	O
+foreldrene	FAMILY
+eller	O
+foreldrenes	O
+søsken	FAMILY
+,	O
+men	O
+mormor	FAMILY
+har	O
+forstørret	CONDITION
+hjerte	CONDITION
+og	O
+anginaplager	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+enebarn	CONDITION
+.	O 
+
+# sent_id = 
+En	O
+onkel	FAMILY
+på	O
+morssiden	SIDE
+er	O
+hjerteoperert	CONDITION
+,	O
+og	O
+en	O
+tante	FAMILY
+på	O
+morssiden	SIDE
+har	O
+hjertesvikt	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+mor	FAMILY
+er	O
+frisk	CONDITION
+,	O
+men	O
+hun	O
+har	O
+både	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+med	O
+hjertesykdom.	CONDITION 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+hjertesvikt	CONDITION
+og	O
+ICD	CONDITION
+,	O
+og	O
+søsteren	FAMILY
+skal	O
+ha	O
+hatt	O
+et	O
+hjerteinfarkt	EVENT
+da	O
+hun	O
+var	O
+i	TEMPORAL
+30-årene.	TEMPORAL 
+
+# sent_id = 
+Begge	AMOUNT
+foreldrene	FAMILY
+til	O
+moren	FAMILY
+hadde	O
+også	O
+hjertesykdom	CONDITION
+-	O
+bestemoren	FAMILY
+hadde	O
+angina	CONDITION
+og	O
+ble	O
+hjerteoperert	EVENT
+da	O
+hun	O
+var	O
+ca	O
+60	TEMPORAL
+år	TEMPORAL
+,	O
+bestefaren	FAMILY
+døde	EVENT
+da	O
+han	O
+var	O
+52	TEMPORAL
+og	O
+hadde	O
+vært	O
+plaget	O
+med	O
+tung	CONDITION
+pust	CONDITION
+i	O
+lang	TEMPORAL
+tid	TEMPORAL
+før	O
+det	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+som	O
+begge	O
+er	O
+friske	CONDITION
+og	O
+testet	CONDITION
+negative.	CONDITION 
+
+# sent_id = 
+Pasientens	SELF
+forelder	FAMILY
+er	O
+foreløpig	O
+ikke	NEG
+testet	EVENT
+,	O
+men	O
+faren	FAMILY
+har	O
+en	O
+bror	FAMILY
+som	O
+har	O
+fått	O
+påvist	O
+kardiomyopati	CONDITION
+,	O
+og	O
+begge	AMOUNT
+hans	O
+barn	FAMILY
+(pasientens	O
+fetter	FAMILY
+og	O
+kusine)	FAMILY
+har	O
+fått	O
+diagnosen.	CONDITION 
+
+# sent_id = 
+Farmor	FAMILY
+hadde	O
+også	O
+hjerteproblemer	CONDITION
+og	O
+døde	EVENT
+av	O
+dette	O
+da	O
+hun	O
+var	O
+63	TEMPORAL
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+hadde	O
+fire	AMOUNT
+søsken	FAMILY
+,	O
+men	O
+både	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+døde	EVENT
+i	TEMPORAL
+barneårene.	TEMPORAL 
+
+# sent_id = 
+De	O
+to	AMOUNT
+gjenlevende	CONDITION
+søsknene	FAMILY
+er	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Hennes	SELF
+eldste	O
+datter	FAMILY
+er	O
+familiens	FAMILY
+indekspasient.	CONDITION 
+
+# sent_id = 
+En	FAMILY
+av	FAMILY
+pasientens	SELF
+tre	AMOUNT
+sønner	FAMILY
+med	O
+samme	O
+far	FAMILY
+som	O
+indekspasienten	O
+har	O
+også	O
+fått	O
+påvist	O
+sykdom.	CONDITION 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+frisk	CONDITION
+datter	FAMILY
+med	O
+ny	O
+ektefelle.	FAMILY 
+
+# sent_id = 
+Han	SELF
+har	O
+fem	AMOUNT
+barn.	FAMILY 
+
+# sent_id = 
+To	AMOUNT
+døtre	FAMILY
+og	O
+en	AMOUNT
+sønn	FAMILY
+er	O
+testet	CONDITION
+positive	CONDITION
+,	O
+en	AMOUNT
+datter	FAMILY
+og	O
+en	AMOUNT
+sønn	FAMILY
+er	O
+testet	CONDITION
+negative.	CONDITION 
+
+# sent_id = 
+Bare	O
+den	O
+eldste	O
+sønnen	FAMILY
+har	O
+fått	O
+påvist	O
+hypertrofi	CONDITION
+,	O
+men	O
+en	FAMILY
+av	FAMILY
+døtrene	FAMILY
+med	O
+mutasjon	CONDITION
+har	O
+hjerterytmeproblemer	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+far	FAMILY
+døde	EVENT
+av	O
+tykktarmskreft	CONDITION
+da	O
+han	O
+var	O
+i	TEMPORAL
+70-årene	TEMPORAL
+,	O
+moren	FAMILY
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+og	O
+er	O
+87.	AGE 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+to	AMOUNT
+søstre	FAMILY
+,	O
+den	FAMILY
+ene	FAMILY
+har	O
+fått	O
+påvist	O
+mutasjon	CONDITION
+og	O
+følges	O
+ved	O
+Ahus	O
+,	O
+den	FAMILY
+andre	FAMILY
+er	O
+ikke	NEG
+genbærer.	CONDITION 
+
+# sent_id = 
+Han	SELF
+har	O
+tre	AMOUNT
+døtre	FAMILY
+og	O
+en	AMOUNT
+sønn	FAMILY
+,	O
+og	O
+bare	O
+en	FAMILY
+av	FAMILY
+døtrene	O
+har	O
+ikke	NEG
+arvet	O
+genet.	CONDITION 
+
+# sent_id = 
+Den	O
+eldste	O
+sønnen	FAMILY
+har	O
+to	AMOUNT
+døtre	FAMILY
+som	O
+er	O
+testet	CONDITION
+postive	CONDITION
+og	O
+en	AMOUNT
+sønn	FAMILY
+som	O
+er	O
+negativ	CONDITION
+,	O
+alle	O
+er	O
+friske.	CONDITION 
+
+# sent_id = 
+En	FAMILY
+av	FAMILY
+døtrene	FAMILY
+med	O
+mutasjon	CONDITION
+har	O
+fire	AMOUNT
+barn	FAMILY
+som	O
+alle	O
+er	O
+testet	CONDITION
+negative.	CONDITION 
+
+# sent_id = 
+Den	O
+yngste	O
+datteren	FAMILY
+har	O
+to	AMOUNT
+sønner	FAMILY
+,	O
+men	O
+har	O
+ikke	NEG
+ønsket	O
+å	O
+genteste	EVENT
+disse	O
+ennå	O
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+oldefar	FAMILY
+på	O
+morssiden	SIDE
+fikk	O
+påvist	O
+MYBPC3-mutasjon	CONDITION
+som	O
+ledd	O
+i	O
+et	O
+prosjekt	O
+,	O
+og	O
+siden	O
+har	O
+store	O
+deler	O
+av	O
+slekten	FAMILY
+blitt	O
+gentestet.	EVENT 
+
+# sent_id = 
+Pasienten	SELF
+vet	O
+at	O
+moren	FAMILY
+har	O
+fått	O
+påvist	O
+genet	CONDITION
+,	O
+men	O
+hun	O
+skal	O
+være	O
+frisk	CONDITION
+(er	O
+55	AGE
+år	AGE
+gammel).	AGE 
+
+# sent_id = 
+Morfaren	FAMILY
+har	O
+også	O
+genet	CONDITION
+og	O
+har	O
+ICD.	CONDITION 
+
+# sent_id = 
+Morfar	FAMILY
+har	O
+flere	O
+søsken	FAMILY
+,	O
+og	O
+i	O
+hvert	O
+fall	O
+en	FAMILY
+av	FAMILY
+søstrene	FAMILY
+hans	O
+har	O
+også	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Oldeforeldrene	FAMILY
+fikk	O
+elleve	AMOUNT
+barn	FAMILY
+,	O
+der	O
+bestefar	FAMILY
+var	O
+nummer	O
+tre	O
+i	O
+rekken.	O 
+
+# sent_id = 
+Alle	AMOUNT
+i	O
+denne	O
+generasjonen	FAMILY
+har	O
+blitt	O
+godt	AGE
+voksne.	AGE 
+
+# sent_id = 
+Pasienten	SELF
+hadde	O
+et	AMOUNT
+hjerteinfarkt	EVENT
+i	TEMPORAL
+2004	TEMPORAL
+,	O
+utviklet	O
+posinfarktsvikt	CONDITION
+med	O
+EF30%	O
+,	O
+og	O
+fikk	O
+innlagt	O
+primærprofylaktisk	O
+ICD	CONDITION
+i	TEMPORAL
+2007	TEMPORAL
+på	O
+Rikshospitalet.	O 
+
+# sent_id = 
+De	O
+siste	O
+tre	O
+årene	O
+har	O
+han	SELF
+gått	O
+til	O
+kontroller	O
+her	O
+på	O
+grunn	O
+av	O
+HCM	CONDITION
+med	O
+utløpsobstruksjon	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+hadde	O
+fem	AMOUNT
+søsken	FAMILY
+,	O
+hans	O
+yngste	O
+søster	FAMILY
+døde	EVENT
+i	TEMPORAL
+1983	TEMPORAL
+under	O
+en	O
+tur	O
+i	O
+fjellet	O
+,	O
+og	O
+man	O
+fant	O
+aldri	O
+noen	O
+sikker	O
+årsak.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+gjenlevende	CONDITION
+søster	FAMILY
+og	O
+en	AMOUNT
+bror	FAMILY
+,	O
+der	O
+broren	O
+har	O
+familiens	CONDITION
+mutasjon.	CONDITION 
+
+# sent_id = 
+Brorens	FAMILY
+sønn	FAMILY
+hadde	O
+en	O
+hjertestans	EVENT
+da	O
+han	O
+var	O
+17	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+og	O
+er	O
+familiens	FAMILY
+indekspasient.	CONDITION 
+
+# sent_id = 
+Nevøen	FAMILY
+fikk	O
+ICD	CONDITION
+og	O
+følges	O
+jevnlig	O
+hos	O
+oss.	O 
+
+# sent_id = 
+Pasienten	SELF
+mor	FAMILY
+har	O
+også	O
+fått	O
+påvist	O
+mutasjonen	CONDITION
+,	O
+men	O
+hun	O
+har	O
+ingen	NEG
+fenotype.	CONDITION 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+ingen	NEG
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ingen	NEG
+tilfeller	O
+av	O
+plutselig	EVENT
+og	EVENT
+uventet	EVENT
+død	EVENT
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Onkelen	FAMILY
+bruker	O
+betablokker,	O
+men	O
+har	O
+ikke	NEG
+fått	O
+hjertestarter	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+onkel	FAMILY
+på	O
+morssiden	SIDE
+fikk	O
+diagnosen	CONDITION
+i	O
+forbindelse	O
+med	O
+utredning	O
+for	O
+besvimelse	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+fikk	O
+diagnosen	CONDITION
+da	O
+hun	O
+var	O
+17	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+i	O
+forbindelse	O
+med	O
+kaskadescreening	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+gått	O
+til	O
+kontroll	O
+her	O
+siden	O
+2012,	YEAR
+da	O
+hun	O
+fikk	O
+påvist	CONDITION
+genet	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+vet	NEG
+ikke	NEG
+om	O
+farfar	FAMILY
+har	O
+søsken,	FAMILY
+og	O
+vet	NEG
+ikke	NEG
+noe	O
+om	O
+sine	O
+oldeforeldre	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+to	AMOUNT
+brødre	FAMILY
+som	O
+begge	O
+er	O
+gennegative	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+vært	O
+til	O
+ablasjonsbehandling	EVENT
+og	O
+fått	O
+pacemaker	CONDITION
+grunnet	O
+atrieflimmer	CONDITION
+.	O 
+
+# sent_id = 
+Bestemor	FAMILY
+skal	O
+ha	O
+gjennomgått	O
+en	O
+hjerteoperasjon	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+yngst	O
+av	O
+tre	AMOUNT
+søsken	FAMILY
+.	O 
+
+# sent_id = 
+Av	O
+og	O
+til	O
+har	O
+han	SELF
+hjertebanksymptomer	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+kan	O
+merke	O
+hjertebank	CONDITION
+og	O
+samtidig	O
+bli	O
+svimmel	CONDITION
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ikke	NEG
+observert	O
+noen	O
+sikker	O
+arytmi	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+barn	FAMILY
+og	O
+seks	AMOUNT
+barnebarn	FAMILY
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+fått	O
+påvist	O
+paroxysmal	CONDITION
+atrieflimmer,	CONDITION
+men	O
+ingen	NEG
+ventrikulær	EVENT
+arytmi	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hjertesvikt	CONDITION
+med	O
+EF	O
+rundt	O
+35%,	O
+men	O
+man	O
+har	O
+vurdert	O
+at	O
+det	O
+ikke	NEG
+er	O
+indikasjon	O
+for	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+var	O
+innlagt	EVENT
+her	O
+i	TEMPORAL
+mai	TEMPORAL
+for	O
+utredning	O
+.	O 
+
+# sent_id = 
+Test	O
+for	O
+vanlige	O
+HCM-gener	CONDITION
+har	O
+gitt	O
+negativt	NEG
+resultat	NEG
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster,	FAMILY
+begge	O
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+og	O
+friske	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+fått	O
+påvist	O
+en	O
+genfeil,	CONDITION
+men	O
+har	O
+ingen	NEG
+plager	CONDITION
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+skal	O
+ha	O
+dødd	EVENT
+i	O
+relativt	O
+ung	TEMPORAL
+alder	TEMPORAL
+av	O
+hjertesykdom	CONDITION
+.	O 
+
+# sent_id = 
+Farfar	FAMILY
+er	O
+i	CONDITION
+live	CONDITION
+og	O
+er	O
+frisk	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+hatt	O
+en	AMOUNT
+besvimelse	EVENT
+da	O
+hun	O
+gikk	O
+i	O
+9.	O
+klasse	O
+.	O 
+
+# sent_id = 
+Besteforeldre	FAMILY
+på	O
+morssiden	SIDE
+døde	EVENT
+i	TEMPORAL
+høy	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+En	AMOUNT
+bror	FAMILY
+født	EVENT
+i	TEMPORAL
+1987	TEMPORAL
+har	O
+vært	O
+til	O
+ablasjonsbehandling	EVENT
+for	O
+et	O
+arytmiproblem,	CONDITION
+og	O
+en	AMOUNT
+bror	FAMILY
+født	EVENT
+i	TEMPORAL
+1992	TEMPORAL
+er	O
+under	O
+behandling	O
+for	O
+høyt	CONDITION
+blodtrykk	CONDITION
+.	O 
+
+# sent_id = 
+Oldemor	FAMILY
+levde	CONDITION
+til	O
+over	O
+90	TEMPORAL
+års	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+tre	TEMPORAL
+og	O
+en	AMOUNT
+datter	FAMILY
+på	O
+to	TEMPORAL
+år	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	FAMILY
+har	O
+en	AMOUNT
+tvillingbror	FAMILY
+som	O
+så	O
+langt	O
+ikke	NEG
+har	O
+noen	O
+sykdomstegn	CONDITION
+.	O 
+
+# sent_id = 
+Søsteren	FAMILY
+er	O
+plaget	O
+med	O
+hyppige	AMOUNT
+besvimelser	EVENT
+.	O 
+
+# sent_id = 
+Mor	FAMILY
+hadde	O
+en	AMOUNT
+bror	FAMILY
+som	O
+døde	EVENT
+i	O
+relativt	O
+ung	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+tilsvarende	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Sønnen	FAMILY
+døde	EVENT
+10	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+etter	O
+kort	O
+tids	O
+sykdom,	O
+og	O
+obduksjon	EVENT
+viste	O
+betydelig	O
+fortykket	CONDITION
+hjertemuskel	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+tvilling,	FAMILY
+og	O
+broren	FAMILY
+har	O
+samme	CONDITION
+mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+tre	AMOUNT
+barn,	FAMILY
+disse	O
+er	O
+foreløpig	O
+ikke	NEG
+testet	EVENT
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+ti,	AGE
+en	AMOUNT
+datter	FAMILY
+på	O
+syv	AGE
+og	O
+en	AMOUNT
+sønn	FAMILY
+på	O
+tre	AGE
+år	AGE
+.	O 
+
+# sent_id = 
+Den	O
+yngste	O
+nevøen	FAMILY
+hadde	O
+en	O
+medfødt	CONDITION
+hjertefeil	CONDITION
+som	O
+han	O
+er	O
+operert	EVENT
+for	O
+.	O 
+
+# sent_id = 
+Ellers	O
+kjenner	O
+pasienten	SELF
+ikke	NEG
+til	O
+noen	O
+hjertesykdom	CONDITION
+i	O
+familien	FAMILY
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+hatt	O
+en	AMOUNT
+besvimelse	EVENT
+i	O
+løpet	O
+av	O
+livet	O
+.	O 
+
+# sent_id = 
+Både	O
+hun	SELF
+og	O
+søsteren	FAMILY
+har	O
+arvet	O
+mutasjonen	CONDITION
+fra	O
+moren	FAMILY
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+hatt	O
+ICD	CONDITION
+siden	TEMPORAL
+2015,	TEMPORAL
+og	O
+følges	O
+her	O
+med	O
+årlige	O
+kontroller	O
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+hatt	O
+flere	AMOUNT
+synkoper	EVENT
+før	O
+hun	O
+fikk	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Farmoren	FAMILY
+døde	EVENT
+plutselig	EVENT
+og	EVENT
+uventet	EVENT
+da	O
+hun	O
+var	O
+55	TEMPORAL
+.	O 
+
+# sent_id = 
+Det	O
+foreligger	O
+ikke	NEG
+noen	O
+genetisk	EVENT
+undersøkelse	EVENT
+av	O
+farmoren	FAMILY
+.	O 
+
+# sent_id = 
+Farmoren	FAMILY
+hadde	O
+to	AMOUNT
+søstre	FAMILY
+som	O
+begge	O
+er	O
+døde	CONDITION
+.	O 
+
+# sent_id = 
+Søstrene	FAMILY
+ble	O
+over	O
+80	TEMPORAL
+år	TEMPORAL
+gamle	TEMPORAL
+.	O 
+
+# sent_id = 
+En	FAMILY
+av	FAMILY
+søstrene	FAMILY
+hadde	O
+tre	AMOUNT
+barn	FAMILY
+,	O
+og	O
+en	FAMILY
+av	FAMILY
+døtrene	FAMILY
+har	O
+gjennomgått	O
+septumablasjon	EVENT
+for	O
+noen	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Etter	O
+alkoholablasjon	EVENT
+for	O
+to	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+har	O
+pasienten	SELF
+ikke	NEG
+lenger	O
+brystsmerter	CONDITION
+ved	O
+aktivitet	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+påvist	O
+obstruktiv	CONDITION
+kardiomyopati	CONDITION
+da	O
+hun	O
+var	O
+50	TEMPORAL
+.	O 
+
+# sent_id = 
+Både	O
+hun	SELF
+og	O
+en	FAMILY
+av	FAMILY
+hennes	O
+to	AMOUNT
+søstre	FAMILY
+har	O
+HOCM,	CONDITION
+begge	O
+følges	O
+her	O
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+hatt	O
+to	AMOUNT
+synkoper	EVENT
+i	O
+forbindelse	O
+med	O
+fysisk	O
+aktivitet	O
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+ikke	NEG
+sett	O
+noen	O
+sikker	O
+ventrikulær	CONDITION
+arytmi	CONDITION
+på	O
+Holter	O
+,	O
+men	O
+pasienten	SELF
+har	O
+periodevis	O
+hjertebank	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+mindre	NEG
+opplevelse	O
+av	O
+nærsynkope	EVENT
+etter	O
+at	O
+hun	O
+begynte	O
+med	O
+medisiner	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+stått	O
+på	O
+Cordarone	O
+siden	O
+sommeren	TEMPORAL
+2017	TEMPORAL
+,	O
+og	O
+i	O
+denne	O
+perioden	O
+er	O
+det	O
+ikke	NEG
+observert	O
+noen	O
+alvorlig	EVENT
+arytmi	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+ble	O
+innlagt	EVENT
+for	O
+utredning	O
+i	TEMPORAL
+fjor	TEMPORAL
+sommer	TEMPORAL
+etter	O
+at	O
+han	O
+hadde	O
+to	AMOUNT
+synkoper	EVENT
+på	TEMPORAL
+vårparten	TEMPORAL
+.	O 
+
+# sent_id = 
+På	O
+telemetri	O
+ble	O
+det	O
+påvist	O
+lange	O
+løp	O
+med	O
+ventrikkeltachycardi	EVENT
+som	O
+pasienten	SELF
+kjente	O
+som	O
+hjertebank	CONDITION
+.	O 
+
+# sent_id = 
+På	O
+ICD	O
+er	O
+det	O
+registrert	O
+flere	AMOUNT
+episoder	O
+med	O
+uregelmessig	O
+SVT	CONDITION
+som	O
+gir	O
+mistanke	O
+om	O
+paroxysmal	O
+AF	O
+.	O 
+
+# sent_id = 
+Han	SELF
+er	O
+usikker	NEG
+på	O
+om	O
+broren	FAMILY
+er	O
+gentestet	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+følges	O
+for	O
+en	O
+gennegativ	CONDITION
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Begge	AMOUNT
+barna	FAMILY
+hans	SELF
+har	O
+arvet	O
+genet	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ikke	NEG
+fått	O
+svar	O
+på	O
+genanalysen	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+en	AMOUNT
+jente	FAMILY
+og	O
+en	AMOUNT
+gutt	FAMILY
+som	O
+er	O
+halvsøsken	O
+.	O 
+
+# sent_id = 
+Søsteren	FAMILY
+har	O
+ingen	NEG
+barn	FAMILY
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+to	AMOUNT
+gutter	FAMILY
+på	O
+fire	AGE
+og	O
+seks	AGE
+med	O
+sin	O
+eks-kone	FAMILY
+,	O
+og	O
+en	AMOUNT
+jente	FAMILY
+med	O
+nåværende	O
+samboer	FAMILY
+.	O 
+
+# sent_id = 
+Oldefaren	FAMILY
+hadde	O
+mange	AMOUNT
+søsken	FAMILY
+,	O
+men	O
+hun	SELF
+vet	NEG
+ikke	NEG
+om	O
+noen	O
+av	O
+dem	O
+var	O
+syke	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+påvist	O
+septumtykkelse	O
+på	O
+15mm	O
+og	O
+moderat	O
+utløpsobstruksjon	CONDITION
+i	TEMPORAL
+2014	TEMPORAL
+.	O 
+
+# sent_id = 
+Onkelens	FAMILY
+dødsfall	EVENT
+førte	O
+til	O
+at	O
+både	O
+moren	FAMILY
+og	O
+pasienten	SELF
+ble	O
+gentestet	EVENT
+.	O 
+
+# sent_id = 
+Både	O
+faren	FAMILY
+og	O
+moren	FAMILY
+har	O
+genvarianter	CONDITION
+som	O
+kan	O
+være	O
+assosiert	O
+med	O
+sykdom	O
+,	O
+og	O
+pasienten	SELF
+har	O
+arvet	O
+begge	AMOUNT
+varianter	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+fikk	O
+påvist	O
+en	O
+MYBPC3-mutasjon	CONDITION
+.	O 
+
+# sent_id = 
+Indekspasienten	CONDITION
+skal	O
+være	O
+en	AMOUNT
+tremenning	FAMILY
+på	O
+morssiden	SIDE
+.	O 
+
+# sent_id = 
+Minst	O
+to	AMOUNT
+tilfeller	O
+av	O
+SCD	EVENT
+på	O
+farssiden	SIDE
+.	O 
+
+# sent_id = 
+Avlesning	O
+av	O
+ICD	CONDITION
+viser	O
+at	O
+han	SELF
+har	O
+hatt	O
+tre	AMOUNT
+episoder	O
+med	O
+NSVT	EVENT
+siste	TEMPORAL
+halvår	TEMPORAL
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+hadde	O
+hjertestans	EVENT
+i	TEMPORAL
+2008	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+ble	O
+vellykket	O
+gjenopplivet	EVENT
+og	O
+har	O
+ikke	NEG
+noe	O
+sequele	CONDITION
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+har	O
+utviklet	O
+hjertesvikt	CONDITION
+og	O
+har	O
+CRT-D	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+forteller	O
+at	O
+datteren	FAMILY
+hadde	O
+flere	AMOUNT
+besvimelser	EVENT
+i	TEMPORAL
+barneårene	TEMPORAL
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+både	O
+besvimt	EVENT
+og	O
+hatt	O
+krampeanfall	EVENT
+.	O 
+
+# sent_id = 
+Datteren	FAMILY
+er	O
+utredet	EVENT
+for	O
+epilepsi	CONDITION
+men	O
+har	O
+ikke	NEG
+fått	O
+noen	O
+sikker	O
+diagnose	CONDITION
+.	O 
+
+# sent_id = 
+Rytmeovervåkning	O
+har	O
+vist	O
+at	O
+han	SELF
+har	O
+korte	O
+episoder	O
+med	O
+uspesifisert	O
+supraventrikulær	CONDITION
+tachycardi	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+ble	O
+henvist	O
+grunnet	O
+atrieflimmer	CONDITION
+,	O
+men	O
+ekko	O
+viste	O
+apical	CONDITION
+hypertrofi	CONDITION
+og	O
+på	O
+telemetri	O
+er	O
+det	O
+sett	O
+en	O
+rekke	O
+VES	EVENT
+og	O
+korte	O
+idioventrikulære	EVENT
+løp	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+hatt	O
+flere	AMOUNT
+nærsynkoper	EVENT
+,	O
+men	O
+har	O
+aldri	NEG
+mistet	EVENT
+bevisstheten	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+aldri	NEG
+svimt	EVENT
+av	EVENT
+.	O 
+
+# sent_id = 
+Sønnen	FAMILY
+skal	O
+ha	O
+svimt	EVENT
+av	EVENT
+under	O
+en	O
+fotballkamp	O
+da	O
+han	O
+var	O
+ti	TEMPORAL
+,	O
+men	O
+det	O
+ble	O
+ikke	O
+gjort	O
+noen	O
+flere	O
+undersøkelser	O
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+nå	O
+en	O
+dilatert	CONDITION
+kardiomyopati	CONDITION
+med	O
+EF	O
+rundt	O
+20%	O
+som	O
+trolig	O
+er	O
+endestadium	O
+HCM	CONDITION
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+har	O
+lettgradig	O
+hypertrofi	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+samme	O
+mutasjon	O
+som	O
+faren	FAMILY
+,	O
+som	O
+har	O
+HCM	CONDITION
+,	O
+men	O
+har	O
+på	O
+ekko	O
+en	O
+annen	O
+fenotype	O
+med	O
+preg	O
+av	O
+non-compaction	CONDITION
+.	O 
+
+# sent_id = 
+Flere	AMOUNT
+i	O
+familien	FAMILY
+har	O
+gjennomgått	O
+alkoholablasjon	EVENT
+for	O
+HOCM	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+kommer	O
+nå	O
+til	O
+årskontroll	O
+etter	O
+myektomi	EVENT
+i	TEMPORAL
+februar	TEMPORAL
+2016	TEMPORAL
+.	O 
+
+# sent_id = 
+Etter	O
+myektomi	EVENT
+har	O
+hun	SELF
+ikke	NEG
+lenger	O
+brystsmerter	CONDITION
+ved	O
+anstrengelse	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+hadde	O
+to	AMOUNT
+anstrengelsesutløste	O
+synkoper	EVENT
+før	O
+kirurgi	O
+,	O
+men	O
+har	O
+ikke	NEG
+hatt	O
+noen	O
+etter	TEMPORAL
+operasjonen	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hatt	O
+episoder	O
+der	O
+han	O
+føler	O
+han	O
+kunne	O
+komme	O
+til	O
+å	O
+svime	O
+av	O
+,	O
+men	O
+har	O
+aldri	NEG
+mistet	EVENT
+bevisstheten	EVENT
+.	O 
+
+# sent_id = 
+Episodene	O
+med	O
+svimmelhet	CONDITION
+kommer	O
+typisk	O
+når	O
+han	SELF
+stresser	O
+eller	O
+anstrenger	O
+seg	O
+,	O
+f.eks	O
+løper	O
+etter	O
+bussen	O
+.	O 
+
+# sent_id = 
+De	FAMILY
+har	O
+to	AMOUNT
+barn	FAMILY
+fra	O
+før	O
+,	O
+og	O
+har	O
+nettopp	O
+fått	O
+en	AMOUNT
+jente	FAMILY
+i	TEMPORAL
+mai	TEMPORAL
+.	O 
+
+# sent_id = 
+Den	O
+eldste	O
+datteren	FAMILY
+er	O
+gentestet	CONDITION
+og	O
+har	O
+ikke	NEG
+fått	O
+påvist	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Han	SELF
+anses	O
+å	O
+være	O
+frisk	CONDITION
+genbærer	CONDITION
+.	O 
+
+# sent_id = 
+Både	O
+faren	FAMILY
+og	O
+broren	FAMILY
+er	O
+genbærere	CONDITION
+.	O 
+
+# sent_id = 
+Lillebroren	FAMILY
+fikk	O
+pacemaker	CONDITION
+ved	TEMPORAL
+12	TEMPORAL
+års	TEMPORAL
+alder	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+to	AMOUNT
+søstre	FAMILY
+som	O
+begge	AMOUNT
+har	O
+ICD	CONDITION
+,	O
+og	O
+den	FAMILY
+ene	FAMILY
+har	O
+hatt	O
+flere	AMOUNT
+innslag	EVENT
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+har	O
+ICD-innslag	EVENT
+med	O
+ett	O
+rettmessig	EVENT
+støt	EVENT
+på	O
+en	O
+NSVT	EVENT
+som	O
+ikke	O
+konverterte	O
+på	O
+ATP	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+merket	O
+flere	AMOUNT
+episoder	O
+med	O
+hjertebank	CONDITION
+som	O
+samsvarer	O
+med	O
+registrerte	O
+SVT-episoder	EVENT
+på	O
+ICD	CONDITION
+.	O 
+
+# sent_id = 
+Ved	O
+avlesning	O
+av	O
+CRT-D	CONDITION
+,	O
+ser	O
+man	O
+at	O
+pasienten	SELF
+har	O
+hatt	O
+flere	O
+episoder	O
+med	O
+sannsynlig	O
+atrieflimmer	CONDITION
+som	O
+hun	O
+ikke	O
+har	O
+merket	O
+selv	O
+.	O 
+
+# sent_id = 
+Etter	O
+at	O
+moren	FAMILY
+hadde	O
+innslag	EVENT
+av	O
+ICD	CONDITION
+,	O
+har	O
+hun	SELF
+selv	O
+merket	O
+mer	O
+hjertebank	CONDITION
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+tre	AMOUNT
+barn	FAMILY
+,	O
+syv	AMOUNT
+barnebarn	FAMILY
+,	O
+og	O
+ble	O
+nylig	O
+oldemor	O
+til	O
+en	AMOUNT
+liten	O
+gutt	FAMILY
+.	O 
+
+# sent_id = 
+Søsteren	FAMILY
+har	O
+fått	O
+trillinger	FAMILY
+.	O 
+
+# sent_id = 
+Et	FAMILY
+av	FAMILY
+tantebarna	FAMILY
+skal	O
+fått	O
+påvist	O
+stort	CONDITION
+hjerte	CONDITION
+på	O
+ultralyd	O
+.	O 
+
+# sent_id = 
+Hun	SELF
+har	O
+fått	O
+vite	O
+at	O
+bestefaren	FAMILY
+døde	EVENT
+av	O
+“stort	O
+hjerte”	CONDITION
+.	O 
+
+# sent_id = 
+Bestefaren	FAMILY
+ble	O
+60	AGE
+år	AGE
+gammel	AGE
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+samboer	FAMILY
+har	O
+et	AMOUNT
+barn	FAMILY
+fra	O
+et	O
+tidligere	O
+forhold	O
+,	O
+og	O
+de	O
+har	O
+en	AMOUNT
+tre	AGE
+år	AGE
+gammel	AGE
+jente	FAMILY
+sammen	O
+.	O 
+
+# sent_id = 
+Flere	AMOUNT
+av	O
+søsknene	FAMILY
+hans	SELF
+har	O
+fått	O
+påvist	O
+fortykket	CONDITION
+hjertemuskel	CONDITION
+.	O 
+
+# sent_id = 
+Begge	AMOUNT
+foreldrene	FAMILY
+har	O
+hjerteproblemer	CONDITION
+,	O
+faren	FAMILY
+har	O
+anginaplager	CONDITION
+og	O
+har	O
+gjennomgått	O
+PCI	EVENT
+,	O
+mens	O
+moren	FAMILY
+utredes	O
+for	O
+kardiomyopati	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+har	O
+også	O
+fått	O
+påvist	O
+høyt	CONDITION
+blodtrykk	CONDITION
+,	O
+og	O
+en	AMOUNT
+tante	FAMILY
+døde	EVENT
+da	O
+hun	O
+var	O
+i	TEMPORAL
+førtiårene	TEMPORAL
+,	O
+uten	NEG
+at	O
+hun	O
+hadde	O
+noen	O
+kjent	O
+sykdom	CONDITION
+.	O 
+
+# sent_id = 
+I	O
+familien	FAMILY
+er	O
+det	O
+variabelt	O
+uttrykk	O
+av	O
+mutasjonen	CONDITION
+,	O
+da	O
+broren	FAMILY
+begynte	O
+å	O
+merke	O
+brystsmerter	CONDITION
+og	O
+hjertebank	CONDITION
+fra	O
+han	O
+var	O
+i	TEMPORAL
+20-årene	TEMPORAL
+og	O
+ble	O
+transplantert	EVENT
+da	O
+han	O
+var	O
+28	TEMPORAL
+,	O
+mens	O
+den	O
+eldste	O
+søsteren	FAMILY
+ikke	NEG
+har	O
+hatt	O
+symptomer	CONDITION
+før	O
+hun	O
+kom	O
+i	TEMPORAL
+50-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Søsteren	FAMILY
+hadde	O
+hypertensjon	CONDITION
+og	O
+et	O
+mer	O
+HOCM-liknende	CONDITION
+bilde	O
+med	O
+utløpsobstruksjon	CONDITION
+,	O
+og	O
+har	O
+vært	O
+PTSMA-behandlet	EVENT
+.	O 
+
+# sent_id = 
+Hun	SELF
+måtte	O
+få	O
+en	O
+pacemaker	CONDITION
+etter	O
+PTSMA	EVENT
+grunnet	O
+totalblokk	CONDITION
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+er	O
+skeptisk	O
+til	O
+å	O
+gjennomføre	O
+septumablasjon	O
+,	O
+delvis	O
+fordi	O
+søsteren	FAMILY
+,	O
+som	O
+har	O
+gjennomgått	O
+samme	O
+behandling	O
+,	O
+måtte	O
+få	O
+pacemaker.	CONDITION 
+
+# sent_id = 
+Pasientens	SELF
+søster	FAMILY
+fikk	O
+diagnosen	CONDITION
+i	O
+forbindelse	O
+med	O
+utredning	O
+for	O
+synkope	EVENT
+for	TEMPORAL
+fire	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Bestefar	FAMILY
+døde	EVENT
+av	O
+ukjent	O
+hjertesykdom	CONDITION
+ca	O
+60	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+hadde	O
+en	AMOUNT
+synkope	EVENT
+under	O
+trening	O
+i	O
+2012	TEMPORAL
+,	O
+fikk	O
+påvist	O
+NSVT	EVENT
+på	O
+Holter	O
+samme	TEMPORAL
+år	TEMPORAL
+,	O
+og	O
+fikk	O
+implantert	EVENT
+ICD	EVENT
+i	O
+2013	TEMPORAL
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+tante	FAMILY
+på	O
+morssiden	SIDE
+døde	EVENT
+plutselig	EVENT
+for	TEMPORAL
+fire	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+,	O
+og	O
+er	O
+familiens	O
+indekspasient	CONDITION
+.	O 
+
+# sent_id = 
+Pasientens	SELF
+onkel	FAMILY
+døde	EVENT
+plutselig	EVENT
+på	O
+en	O
+skogstur	O
+55	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Onkelens	FAMILY
+to	AMOUNT
+sønner	FAMILY
+er	O
+siden	O
+gentestet	EVENT
+og	O
+har	O
+mutasjonen	CONDITION
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+fikk	O
+en	O
+ICD	CONDITION
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+hadde	O
+en	AMOUNT
+rekke	AMOUNT
+besvimelser	EVENT
+i	TEMPORAL
+barneårene	TEMPORAL
+,	O
+og	O
+fikk	O
+hjertestans	EVENT
+under	O
+fotballkamp	O
+i	TEMPORAL
+2010	TEMPORAL
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+hatt	O
+tre	AMOUNT
+synkoper	EVENT
+;	O
+en	O
+for	O
+snart	O
+ti	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+i	O
+forbindelse	O
+med	O
+en	O
+blodprøve	O
+,	O
+men	O
+for	O
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+svimte	EVENT
+han	EVENT
+av	EVENT
+mens	O
+han	O
+lempet	O
+stein	O
+i	O
+hagen	O
+,	O
+og	O
+i	TEMPORAL
+sommer	TEMPORAL
+hadde	O
+han	O
+en	AMOUNT
+ny	O
+synkope	EVENT
+på	O
+treningsstudio	O
+under	O
+spinning	O
+,	O
+og	O
+etter	O
+dette	O
+opb	O
+psøkte	O
+han	O
+lege	O
+.	O 
+
+# sent_id = 
+Faren	FAMILY
+ble	O
+hjertetransplantert	EVENT
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Broren	FAMILY
+var	O
+innlagt	CONDITION
+her	O
+rett	TEMPORAL
+før	TEMPORAL
+nyttår	TEMPORAL
+etter	O
+hjertestans	EVENT
+.	O 
+
+# sent_id = 
+En	AMOUNT
+onkel	FAMILY
+på	O
+morssiden	SIDE
+har	O
+hatt	O
+hjerteinfarkt	EVENT
+i	TEMPORAL
+50-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Pasienten	SELF
+hadde	O
+et	AMOUNT
+hjerteinfarkt	EVENT
+i	TEMPORAL
+2009	TEMPORAL
+,	O
+og	O
+i	TEMPORAL
+fjor	TEMPORAL
+fikk	O
+han	O
+implantert	EVENT
+ICD	EVENT
+grunnet	O
+hjertesvikt	CONDITION
+.	O 
+
+# sent_id = 
+Det	O
+er	O
+fire	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+sist	O
+det	O
+er	O
+observert	O
+en	O
+ventrikulær	EVENT
+arytmi	EVENT
+hos	O
+pasienten	SELF
+.	O 
+
+# sent_id = 
+Han	SELF
+har	O
+vært	O
+fulgt	O
+her	O
+årlig	O
+siden	O
+2007,	O
+og	O
+det	O
+ble	O
+først	O
+sett	O
+NSVT	EVENT
+på	O
+en	O
+Holter	O
+i	TEMPORAL
+2012	TEMPORAL
+.	O 
+
+# sent_id = 
+Etter	O
+dette	O
+har	O
+han	SELF
+stått	O
+på	O
+betablokker	O
+og	O
+det	O
+har	O
+ikke	NEG
+vært	O
+noen	O
+ytterligere	O
+arytmi	EVENT
+.	O 
+
+# sent_id = 
+Han	SELF
+begynte	O
+å	O
+merke	O
+hjertebank	EVENT
+for	O
+fire-fem	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+,	O
+og	O
+fikk	O
+påvist	O
+atrieflimmer	CONDITION
+på	O
+Ahus	O
+i	TEMPORAL
+2014	TEMPORAL
+.	O 
+
+# sent_id = 
+Ablasjonsbehandlet	EVENT
+i	TEMPORAL
+2015	TEMPORAL
+,	O
+men	O
+residiv	EVENT
+i	TEMPORAL
+år	TEMPORAL
+.	O 
+
+# sent_id = 
+Besteforeldrene	FAMILY
+på	O
+farssiden	SIDE
+døde	EVENT
+i	TEMPORAL
+80-årene	TEMPORAL
+.	O 
+
+# sent_id = 
+Mormor	FAMILY
+døde	EVENT
+av	O
+kreft	CONDITION
+64	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+.	O 
+
+# sent_id = 
+Mor	FAMILY
+fikk	O
+påvist	O
+HCM	CONDITION
+da	O
+hun	O
+var	O
+ca	O
+40	TEMPORAL
+.	O 
+
+# sent_id = 
+Hennes	SELF
+eldste	O
+søster	FAMILY
+er	O
+24,	AGE
+og	O
+fikk	O
+diagnosen	CONDITION
+for	TEMPORAL
+tre	TEMPORAL
+år	TEMPORAL
+siden	TEMPORAL
+.	O 
+
+# sent_id = 
+Ingen	NEG
+av	O
+farens	FAMILY
+søsken	FAMILY
+ble	O
+mer	O
+enn	O
+60	AGE
+år	AGE
+gamle	AGE
+.	O 
+
+# sent_id = 
+Søsteren	FAMILY
+hadde	O
+et	O
+hjerneslag	EVENT
+i	TEMPORAL
+2015	TEMPORAL
+.	O 
+
+# sent_id = 
+Moren	FAMILY
+hadde	O
+tre	AMOUNT
+søsken	FAMILY
+,	O
+en	AMOUNT
+bror	FAMILY
+døde	EVENT
+av	O
+drukning	EVENT
+7	TEMPORAL
+år	TEMPORAL
+gammel	TEMPORAL
+,	O
+en	AMOUNT
+bror	FAMILY
+og	O
+en	AMOUNT
+søster	FAMILY
+er	O
+fortsatt	O
+i	CONDITION
+live	CONDITION
+.	O 
+
