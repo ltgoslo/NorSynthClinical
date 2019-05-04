@@ -15,10 +15,10 @@ The results reported in the paper can be replicated by
 - `python3 interannotator_agreement.py taraka_annotate pal_annotate`
 - `python3 interannotator_agreement.py lilja_annotate pal_annotate`-->
 
-Train and test SVM 5-fold cross-validation for entity recognition
+Train and test SVM 5-fold cross-validation for entity recognition.
 - `python3 svm_ner.py all_sentences.vert.parse.entity 5`
 
-Train and test SVM 5-fold cross-validation for relation extraction. The file 
+Train and test SVM 5-fold cross-validation for relation extraction. 
 - `python3 uio2rel.py pal_annotate all_sentences.vert.parse 5`
 
 
